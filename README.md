@@ -13,7 +13,7 @@ issues:
 
 🌄 **Mapas y recursos gráficos:** Mapas de las Islas Nullis
 
-## Consideraciones espaciales estadísticas y geográficas.
+## Consideraciones especiales estadísticas y geográficas.
 
  🧑🏽‍🦱 **La Federación tiene 7.5 millones de habitantes.**
 
