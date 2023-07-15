@@ -8,8 +8,7 @@ Proyecto de creación de una Constitución para un país ficticio: **Las Islas N
 📜 **[Constitución de la Federación de las Islas Nullis.md](https://github.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/blob/main/texto/Constituci%C3%B3n%20de%20la%20Federaci%C3%B3n%20de%20las%20Islas%20Nullis.md)**: Archivo que contiene el texto completo de la constitución del país ficticio.
 
 
-📑 **Leyes:** Carpeta donde se incluyen las leyes órganicas de la Federación
-issues:
+📑 **Leyes:** Carpeta donde se incluyen las leyes órganicas de la Federación.
 
 🌄 **Mapas y recursos gráficos:** Mapas de las Islas Nullis
 
