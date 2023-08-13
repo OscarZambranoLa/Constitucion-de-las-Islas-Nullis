@@ -41,5 +41,5 @@ Se recomienda encarecidamente consultar a profesionales legales y expertos en la
 
 
 ## Licencia
-Este proyecto se distribuye bajo la licencia MIT. Esto significa que puedes utilizar, modificar y distribuir este proyecto de acuerdo con los términos y condiciones de la licencia.
+Este proyecto se distribuye bajo la Mozilla Public License 2.0. Esto significa que puedes utilizar, modificar y distribuir este proyecto de acuerdo con los términos y condiciones de la licencia.
 
