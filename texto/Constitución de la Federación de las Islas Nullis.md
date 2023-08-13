@@ -68,16 +68,19 @@ La Federación promoverá la accesibilidad en el transporte público, garantizan
 
 Artículo XII: Toda persona tiene derecho al trabajo digno. La Federación reconoce que el trabajo no debe ser tratado como una mercancía, sujeta a leyes de mercado. El Parlamento de la Federación de las Islas Nullis emitirá una ley orgánica para regular este derecho, y los contratos individuales o colectivos de trabajo, que se regirá sobre las siguientes bases.
 
--   A. En lo realtivo a la jornada laboral:
+-  A. Los Trabajadores tienen derecho a:
 
--   I.Ninguna jornada laboral será mayor a ocho horas.
+1.  A los derechos contemplados en esta Constitución, las leyes que se deriven de ella y aquellos contemplados en los tratados internacionales ratificados por la Federación.
+2.  A un trabajo digno, que respete su salud física y mental.
+3.  Al descanso y al ocio en una parte razonable de su día.
+4.  A un salario digno, que le permita sufragar sus gastos personales y los de su familia.
+5.  Al sueño reparador. Para aquellos trabajadores que tengan que cumplir una jornada nocturna aplicará una prima del 25% sobre su salario. Ningún trabajador podrá cumplir más de treinta días en un horario nocturno. Por cada treinta de estos días se otorgarán 30 días en trabajo diurno.
+6.  A dos días de descanso por cada cinco trabajados durante la semana. Los trabajadores que tengan y acepten trabajar en sus días de descanso obtendrán una prima del 100%.
 
--   II. Los días trabajados por semana son cinco, con dos días de descanso. Se puede optar por un día de trabajo más, el cual deberá ser pagado al doble.
+1.  Para los trabajadores cuyos días de descanso coincidan con los días feriados oficiales de las Federación y acepten trabajar en ellos la prima será del 200%.
 
--     
-    
+8.  A un preferencia en el descaso para los días sábado y domingo. En caso de trabajar el sábado obtendrán una prima del 5%. Para el día domingo esta prima será del 20%.
 
--     
     
 
  
