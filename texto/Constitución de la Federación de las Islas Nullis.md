@@ -1,74 +1,161 @@
-# Constitucion de las Federación de las Islas Nullis.
+
 
 ## Preámbulo
 
 Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nuestros representantes democráticamente electos y reunidos en Congreso Constituyente, teniendo en cuenta la historia de nuestros pueblos, concluimos que formar un estado nacional corresponde mejor a los intereses de nuestros habitantes, por ello decidimos proclamar la siguiente:
 
+# Constitucion de las Federación de las Islas Nullis.
   
 
 ## Título primero: De los Derechos Humanos
 
-**Artículo I.** Todo individuo tendrá derecho al respeto de sus Derechos Humanos, sin discriminación de ningún tipo.
+**Artículo I.**
 
-**Artículo II.** Los Derechos Humanos serán interpretados como aquellos presentes en la Declaración Universal de los Derechos Humanos.
+1.  Todo individuo tendrá derecho al respeto de sus Derechos Humanos, sin discriminación de ningún tipo.
 
-**Artículo III**. Vulnerar estos derechos constituye el crimen más alto en la Justicia de las Islas Nullis, el Código Penal de las Islas Nullis lo tipificará así.
+  
 
-**Artículo IV.** El Tribunal Superior de las Islas Nullis tendrá la capacidad de disponer si algún individuo o ciudadano de las Islas Nullis será juzgado en la Corte Internacional de Justicia.
+**Artículo II.**
 
-**Artículo V.** Todo individuo tiene derecho a la libertad y seguridad personales. Nadie será sometido a torturas ni a tratos o penas crueles, inhumanos o degradantes. Las penas que impliquen un casitigo corporal quedan prohibidas.
+2.  Los Derechos Humanos serán interpretados como aquellos presentes en la Declaración Universal de los Derechos Humanos.
 
-**Artículo VI.** Todo individuo tiene derecho a la personalidad júridica y no podrá ser despojado de ella, únicamente se podran restringir ciertos derechos bajo los linemientos indicados en esta constitución.
+  
 
-**Artículo VII**. Toda persona tiene derecho a un jucio justo y de garantías, de conformidad con lo establecido en esta constitución, la Declaración Universal de los Derechos Humanos y el Artículo 14 del Pacto Internacional de Derechos Civiles y Políticos de las Naciones Unidas, así como otros tratados internacionales de los que la Federación forme parte. Los detalles, salvaguardas y plazos razonables para salvaguardar este derecho seán regulados por una ley orgánica.
+**Artículo III.**
 
-**Artículo VII.** Toda persona tiene derecho a la libertad de expresión. Este derecho incluye la libertad de buscar y difundir información, sin importar fronteras ni el tipo de información. Las restricciones légitimas buscan promover la protección de los derechos de los demás individuos y estás pueden incluir.
+1.  Vulnerar estos derechos constituye el crimen más alto en la Justicia de las Islas Nullis, el Código Penal de las Islas Nullis lo tipificará así
 
--   a. La protección de los derechos de privacidad y reputación de los individuos.
+  
 
--   b. La prohibición de incitación a la violencia, discriminación, odio o cualquier forma de discurso que atente contra los derechos humanos.
+**Artículo IV.**
 
--   c. d) La protección de los derechos de los menores de edad.
+2.  El Tribunal Superior de las Islas Nullis tendrá la capacidad de disponer si algún individuo o ciudadano de las Islas Nullis será juzgado en la Corte Internacional de Justicia.
 
-Estas restricciones solo serán aplicadas por la autoridad comptente, interpretadas de manera restricitva y con todas las garantías del Artículo VII constitucional.
+  
 
-**Artículo IX**. Toda persona tiene derecho a la libertad de pensamiento y conciencia. Todo individuo tiene derecho a cambiar de pensamiento y religión, así como a no tener una. Se reconoce el derecho a ejercer cualquier tipo de religión, este ejecicio debe ser libre y voluntario. Ninguna persona será discriminada por el ejercicio o la falta de la misma. Las limitaciones légitimas de la actividad religiosa, de pensamiento y de conciencia pueden incluir.
+**Artículo V.**
 
--   a. La protección de los derechos humanos y libertad de pensamiento, conciencia y religión de otros.
+2.  Todo individuo tiene derecho a la libertad y seguridad personales.
+3.  Nadie será sometido a torturas ni a tratos o penas crueles, inhumanos o degradantes.
+4.  Las penas que impliquen un casitigo corporal quedan prohibidas.
 
--   b. La amenza del quebrantamiento del orden libre, democrático y constitucional de la Federación.
+  
 
--   c. La salud de los individuos pertencecientes o no a determinada creencia, especialmente observando y cuidando los derechos de los menores de edad.
+**Artículo VI.**
 
-Estas restricciones solo serán aplicadas por la autoridad comptente, interpretadas de manera restricitva y con todas las garantías del Artículo VII constitucional. Una ley órganica regulrá el apartado b de este artículo en específico.
+1.  Todo individuo tiene derecho a la personalidad júridica y no podrá ser despojado de ella, únicamente se podran restringir ciertos derechos bajo los linemientos indicados en esta Constitución.
 
-**Artículo X:** Toda persona tiene derecho a la educación. La Federación y las partes integrantes de la misma garantizarán una educación que será.
+  
 
--   a. De calidad, de conformidad con el máximo desarollo posible que los individuos deseen lograr de manera individual.
+**Artículo VII.**
 
--   b. Gratuita, en los niveles de educación inicial, secundaria y media superior. La Federación y las partes integrantes de la misma deberán también proveer alternativas gratuitas de educación superior que se rigan bajos los principios de este artículo. La educación privada será permitida y apoyada.
+1.  Toda persona tiene derecho a un jucio justo y de garantías, de conformidad con lo establecido en esta constitución, la Declaración Universal de los Derechos Humanos y el Artículo 14 del Pacto Internacional de Derechos Civiles y Políticos de las Naciones Unidas, así como otros tratados internacionales de los que la Federación forme parte.
+2.  Los detalles, salvaguardas y plazos razonables para salvaguardar este derecho seán regulados por una ley orgánica.
 
--   c. Laica, respetando la libertad de creencias y diversidad que es inherentemente humana. La educación de ninguna manera incluirá incitación a los dircursos de odio, racismo o discriminación, sin embargo deberá enseñarse a los estudiantes los acontecimientos históricos de la humanidad de manera científica e históricamente responsable, fijando como meta la reflexión moral y la prevención de actitudes discriminatorias o xénofobas. Las escuelas religiosas serán permitidas y apoyadas. Las mismas deberán apegarse a los mismos criterios de prohibición de discriminación.
+  
 
--   d. Será científica y humanística, sin imponer ninguna perspectiva religiosa o dogmática. Se promoverá una formación integral que incluya la enseñanza de valores universales como la tolerancia, el respeto a la diversidad, la igualdad de género y la justicia social.
+**Artículo VII.**
 
--   e. Será de mejora constante y de infraestructura de calidad, la Federación establecerá un organismo de evaluación constante de la educación, buscando el cumplimiento más fiel a este artículo y su acercamiento a los mejores sistemas educativos del mundo.
+1.  Toda persona tiene derecho a la libertad de expresión.
+2.  Este derecho incluye la libertad de buscar y difundir información, sin importar fronteras ni el tipo de información.
+3.  Las restricciones légitimas buscan promover la protección de los derechos de los demás individuos y estás pueden incluir.
 
-**Artículo XI.** Toda persona tiene derecho a su propia identidad, que incluye su nombre, nacionalidad, identidad de género, filiaciones y cualquier otro elemento que lo distinga como persona única en la sociedad, incluyendo su identidad digital. Toda persona tiene derecho a decidir libremente su identidad de género, así como su expresión e identificación. En la Federación toda persona tiene derecho reconocida y tratada de acuerdo con su identidad de género autopercibida, la cual puede ser distinta del sexo asignado al nacer. La Federación proveerá los mecanismos para poder cambiar legalmente el nombre y el género en los documentos oficiales.
+1.  La protección de los derechos de privacidad y reputación de los individuos.
+2.  La prohibición de incitación a la violencia, discriminación, odio o cualquier forma de discurso que atente contra los derechos humanos
+3.  La protección de los derechos de los menores de edad.
 
-Toda persona tiene derecho a expresarse en su lengua de nacimento y en cualquier otra lengua adquirida. La Federación tiene la obligación, de acuerdo a los censos poblacionales, de publicar la información gubernamental, júridica y educativa en las lenguas autóctonas de las Islas.
+5.  Estas restricciones solo serán aplicadas por la autoridad comptente, interpretadas de manera restricitva y con todas las garantías del Artículo VII constitucional.
 
-**Artículo XXI**. Toda persona tiene el derecho fundamental y légitimo de negarse a participar en actos que impliquen la toma de vidas humanas. La Federación garantizará y promoverá el respeto y la protección de este derecho en todos los ámbitos, incluyendo, pero no limitado a, el servicio militar voluntario, las fuerzas de seguridad y cualquier otro escenario en el cual se exija el uso de la fuerza letal.
+  
 
-**Artículo XII.** Toda persona tiene derecho a moverse libremente por el territorio de la Federación y establcecer su residencia donde le parezca pertinente. Una ley orgánica regulará las excepciones por seguridad nacional y proteccion de la naturaleza.
+**Artículo IX.**
 
-Toda persona tiene el derecho al acceso y uso del transporte público en la Federación de las Islas Nullis, garantizando su movilidad y la posibilidad de desplazarse de manera segura, eficiente y asequible dentro del territorio.
+1.  Toda persona tiene derecho a la libertad de pensamiento y conciencia.
+2.  Todo individuo tiene derecho a cambiar de pensamiento y religión, así como a no tener una.
+3.  Se reconoce el derecho a ejercer cualquier tipo de religión, este ejecicio debe ser libre y voluntario.
+4.  Ninguna persona será discriminada por el ejercicio o la falta de la misma. Las limitaciones légitimas de la actividad religiosa, de pensamiento y de conciencia pueden incluir.
 
-La Federación promoverá la accesibilidad en el transporte público, garantizando la disponibilidad de servicios de transporte adaptado y accesible, como vehículos con rampas o elevadores, espacios reservados para personas con movilidad reducida y sistemas de información accesibles. Asimismo, se fomentará la accesibilidad en el entorno urbano, mediante la adaptación de aceras, cruces de calles, paradas de transporte público y demás infraestructuras relacionadas.
+1.  La protección de los derechos humanos y libertad de pensamiento, conciencia y religión de otros.
+2.  La amenza del quebrantamiento del orden libre, democrático y constitucional de la Federación.
+3.  La salud de los individuos pertencecientes o no a determinada creencia, especialmente observando y cuidando los derechos de los menores de edad.
 
-Artículo XII: Toda persona tiene derecho al trabajo digno. La Federación reconoce que el trabajo no debe ser tratado como una mercancía, sujeta a leyes de mercado. El Parlamento de la Federación de las Islas Nullis emitirá una ley orgánica para regular este derecho, y los contratos individuales o colectivos de trabajo, que se regirá sobre las siguientes bases.
+6.  Estas restricciones solo serán aplicadas por la autoridad comptente, interpretadas de manera restricitva y con todas las garantías del Artículo VII constitucional. Una ley órganica regulrá el apartado b de este artículo en específico.
 
--  A. Los Trabajadores tienen derecho a:
+  
+
+**Artículo X:**
+
+1.  Toda persona tiene derecho a la educación.
+2.  La Federación y las partes integrantes de la misma garantizarán una educación que será.
+
+1.  De calidad, de conformidad con el máximo desarollo posible que los individuos deseen lograr de manera individual.
+2.  Gratuita, en los niveles de educación inicial, secundaria y media superior. La Federación y las partes integrantes de la misma deberán también proveer alternativas gratuitas de educación superior que se rigan bajos los principios de este artículo. La educación privada será permitida y apoyada.
+3.  Será científica y humanística, sin imponer ninguna perspectiva religiosa o dogmática. Se promoverá una formación integral que incluya la enseñanza de valores universales como la tolerancia, el respeto a la diversidad, la igualdad de género y la justicia social.
+4.  Será de mejora constante y de infraestructura de calidad, la Federación establecerá un organismo de evaluación constante de la educación, buscando el cumplimiento más fiel a este artículo y su acercamiento a los mejores sistemas educativos del mundo.
+5.  Laica, respetando la libertad de creencias y diversidad que es inherentemente humana.
+
+4.  La educación de ninguna manera incluirá incitación a los dircursos de odio, racismo o discriminación, sin embargo deberá enseñarse a los estudiantes los acontecimientos históricos de la humanidad de manera científica e históricamente responsable, fijando como meta la reflexión moral y la prevención de actitudes discriminatorias o xénofobas.
+5.  Las escuelas religiosas serán permitidas y apoyadas. Las mismas deberán apegarse a los mismos criterios de prohibición de discriminación.
+
+  
+
+**Artículo XI.**
+
+1.  Toda persona tiene derecho a su propia identidad, que incluye su nombre, nacionalidad, identidad de género, filiaciones y cualquier otro elemento que lo distinga como persona única en la sociedad, incluyendo su identidad digital.
+2.  Toda persona tiene derecho a decidir libremente su identidad de género, así como su expresión e identificación.
+3.  En la Federación toda persona tiene derecho reconocida y tratada de acuerdo con su identidad de género autopercibida, la cual puede ser distinta del sexo asignado al nacer.
+4.  La Federación proveerá los mecanismos para poder cambiar legalmente el nombre y el género en los documentos oficiales.
+5.  Toda persona tiene derecho a expresarse en su lengua de nacimento y en cualquier otra lengua adquirida.
+
+1.  La Federación tiene la obligación, de acuerdo a los censos poblacionales, de publicar la información gubernamental, júridica y educativa en las lenguas autóctonas de las Islas.
+
+  
+
+**Artículo XXI.**
+
+1.  Toda persona tiene el derecho fundamental y légitimo de negarse a participar en actos que impliquen la toma de vidas humanas.
+
+1.  La Federación garantizará y promoverá el respeto y la protección de este derecho en todos los ámbitos, incluyendo, pero no limitado a, el servicio militar voluntario, las fuerzas de seguridad y cualquier otro escenario en el cual se exija el uso de la fuerza letal.
+
+-     
+    
+
+**Artículo XII.**
+
+1.  Toda persona tiene derecho a moverse libremente por el territorio de la Federación y establcecer su residencia donde le parezca pertinente.
+
+1.  Una ley orgánica regulará las excepciones por seguridad nacional y proteccion de la naturaleza.
+
+3.  Toda persona tiene el derecho al acceso y uso del transporte público en la Federación de las Islas Nullis, garantizando su movilidad y la posibilidad de desplazarse de manera segura, eficiente y asequible dentro del territorio.
+4.  La Federación promoverá la accesibilidad en el transporte público, garantizando la disponibilidad de servicios de transporte adaptado y accesible, como vehículos con rampas o elevadores, espacios reservados para personas con movilidad reducida y sistemas de información accesibles.
+
+1.  Asimismo, se fomentará la accesibilidad en el entorno urbano, mediante la adaptación de aceras, cruces de calles, paradas de transporte público y demás infraestructuras relacionadas.
+
+-     
+    
+
+**Artículo XIII.**
+
+1.  Toda persona en las Islas Nullis es libre y no está sujeta a servidumbre de nungana persona u organización.
+2.  Todo aquel esclavo de cualquier territorio es libre por el solo hecho de pisar el Terrritorio de la Federación, incluyendo embajadas y consulados, así como aeronaves y embarcaciones de bandera nacional.
+3.  La Federación combatirá diversas formas de esclavitud moderna, que pueden incluir, entre otras:
+
+1.  La trata de personas.
+2.  El trabajo forzado y la explotación laboral.
+3.  Trabajo infantil.
+4.  Trafico de seres humanos, sin importar su nacionalidad.
+
+5.  La Federación creará una agencia autónoma que, en conjunto y coloboración con el Ministerio Público administré el combate institucional y cultural al trabajo sexual forzado.
+
+  
+
+**Artículo XIV.**
+
+1.  Toda persona tiene derecho al trabajo digno.
+2.  La Federación reconoce que el trabajo no debe ser tratado como una mercancía, sujeta a leyes de mercado.
+3.  El Parlamento de la Federación de las Islas Nullis emitirá una ley orgánica para regular este derecho, y los contratos individuales o colectivos de trabajo, que se regirá sobre las siguientes bases.
+
+1.  Los Trabajadores tienen derecho a:
 
 1.  A los derechos contemplados en esta Constitución, las leyes que se deriven de ella y aquellos contemplados en los tratados internacionales ratificados por la Federación.
 2.  A un trabajo digno, que respete su salud física y mental.
@@ -81,36 +168,57 @@ Artículo XII: Toda persona tiene derecho al trabajo digno. La Federación recon
 
 8.  A un preferencia en el descaso para los días sábado y domingo. En caso de trabajar el sábado obtendrán una prima del 5%. Para el día domingo esta prima será del 20%.
 
-    
-
- 
-  
-
 ## Título segundo: De la configuración de la Federación.
 
-**Artículo XXX.** El nombre del estado nacional se define como Federación de las Islas Nullis.
+**Artículo XXX.**
 
-**Artículo XXXI.** El territorio de las Islas Nullis comprende a las ocho Islas Nullis: Antalosia, Costa Natura, Findalina, Jisalinse, Marinasial, Sinjoya, Trualapie y Valacare. También son parte de la Federación las Islas, islotes y barreras de coral adyacentes a ellas, así como el mar territorial.
+1.  El nombre del estado nacional se define como Federación de las Islas Nullis.
 
-**Artículo XXXII.** El mar territorial de la Federación tiene su límite a doce millas náutiticas de las costas exteriores de las islas, fomando una línea continua que rodea a las Islas Nullis.
+**Artículo XXXI.**
 
-**Artículo XXXIV.** Las Islas Nullis reconocen y se agogen a la Convención de las Naciones Unidas sobre el Derecho del Mar en su configuración de sus mares.
+1.  El territorio de las Islas Nullis comprende a las ocho Islas Nullis: Antalosia, Costa Natura, Findalina, Jisalinse, Marinasial, Sinjoya, Trualapie y Valacare. También son parte de la Federación las Islas, islotes y barreras de coral adyacentes a ellas, así como el mar territorial.
 
-**Artículo XXXV.** La Federación de las Islas Nullis declara que no tiene reclamo territorial y marítimo alguno, los territorios fuera de los Artículos XXXI y XXXIV no forman parte de la Federación y están fuera de su soberanía. Así mismo se declara la renuncia a cualquier expansión del territorio por la fuerza de las armas, sin afectación a los derechos de soberanía previamente planteados.
+**Artículo XXXII.**
 
-**Artículo XXXXI.** La Federación de las Islas Nullis es indivisible y no puede ser disuelta, fragmentada o separada en ninguna circunstancia.
+1.  El mar territorial de la Federación tiene su límite a doce millas náutiticas de las costas exteriores de las islas, fomando una línea continua que rodea a las Islas Nullis.
 
-**Artículo XXXVII.** La capital de la Federación de las Islas Nullis se establece en la Ciudad Capital Autónoma de Costa Natura
+**Artículo XXXIV.**
 
-**Artículo XXXVIII.** Cada Isla gozá de autonomía en su régimen constitucional interior. La autonomía se ejercerá como todo lo no expresamente asignado a la Federación en esta constitución.
+1.  Las Islas Nullis reconocen y se acogen a la Convención de las Naciones Unidas sobre el Derecho del Mar en su configuración de sus mares.
 
-**Artículo XXXIX.** La división territorial de la Federación de las Islas Nullis es la siguiente: La Región Autónoma de Antalosia, la Ciudad Capital Autónoma de Costa Natura, la Región Autónoma de Findalina, la Región Autónoma de Jisalinse, la Región Autónoma de Marinasial, la Región Autónoma de Sinjoya, la Región Autónoma de Trualapie y la Región Autónoma de Valacare.
+**Artículo XXXV.**
 
-**Artículo XL.** Las Regiones Autónomas y la Capital Federal podrán dotarse de un régimen interior. Dicho régimen no podrá ser contrario a esta constitución, ni a los instrumentos internacionales de los que la Federación forme parte. Tampoco podrá atribuirse competencias de la Federación de conformidad con el Artículo XXXVIII.
+1.  La Federación de las Islas Nullis declara que no tiene reclamo territorial y marítimo alguno, los territorios fuera de los Artículos XXXI y XXXIV no forman parte de la Federación y están fuera de su soberanía.
+2.  Así mismo se declara la renuncia a cualquier expansión del territorio por la fuerza de las armas, sin afectación a los derechos de soberanía previamente planteados.
+3.  La Federación renuncia a su derecho de declarar una guerra preventiva, las acciones militares solo podrán darse de manera defensiva. Las Fuerzas Armadas de la Federación solo podrán actuar fuera de la Federación en ejercicios militares o de manera activa en Misiones de Paz de las Naciones Unidas. Para el combate solo se autorizará la participación de Las Fuerzas Armadas de la Federación si se trata de una Resolución del Consejo de Seguridad de las Naciones Unidas.
+4.  En el territorio de la Federación de las Islas Nullis se prohíbe la construcción, almacenamiento, transporte y uso de armas biológicas, químicas y nucleares.
 
-**Artículo XLI**. Este régimen interior podrá denominarse Constitución, Estatuto o Fuero.
+**Artículo XXXXI.**
 
-**Artículo XLII**. El régimen deberá ser aprobado por el Parlamento Locales de cada Región Autónoma y por ambas cámaras del Parlameto de la Federación de las Islas Nullis. Dicho régimen será publicado en el Boletín de la Federación y tendrá carácter de ley orgánica. Cualquier modificación posterior del régimen interior requerirá el mismo procedimiento de aprobación establecido en este artículo.
+1.  La Federación de las Islas Nullis es indivisible y no puede ser disuelta, fragmentada o separada en ninguna circunstancia.
+
+**Artículo XXXVII.**
+
+1.  La capital de la Federación de las Islas Nullis se establece en la Isla Capital Autónoma de Costa Natura.
+
+**Artículo XXXVIII.**
+
+1.  Cada Isla gozá de autonomía en su régimen constitucional interior. La autonomía se ejercerá como todo lo no expresamente asignado a la Federación en esta constitución.
+
+**Artículo XL.**
+
+1.  Las Islas Autónomas y la Capital Federal podrán dotarse de un régimen interior. Dicho régimen no podrá ser contrario a esta constitución, ni a los instrumentos internacionales de los que la Federación forme parte.
+2.  Tampoco podrá atribuirse competencias de la Federación de conformidad con el Artículo XXXVIII.
+
+**Artículo XLI.**
+
+1.  Este régimen interior podrá denominarse Constitución, Estatuto o Fuero.
+
+**Artículo XLII.**
+
+1.  El régimen deberá ser aprobado por el Parlamento Locales de cada Isla Autónoma y por ambas cámaras del Parlameto de la Federación de las Islas Nullis.
+2.  Dicho régimen será publicado en el Boletín de la Federación y tendrá carácter de ley orgánica.
+3.  Cualquier modificación posterior del régimen interior requerirá el mismo procedimiento de aprobación establecido en este artículo.
 
   
 
@@ -123,15 +231,26 @@ Artículo XII: Toda persona tiene derecho al trabajo digno. La Federación recon
 
   
 
-**Artículo XC**. La Nación es la fuente primordial de la soberanía y, por ende, posee de manera exclusiva el poder de establecer las leyes fundamentales.
+**Artículo XC.**
 
-**Artículo XCI.** De la Soberanía de la Nación emanan los poderes del estado, entendidos en esta Constitución como Poderes de la Federación.
+1.  La Nación es la fuente primordial de la soberanía y, por ende, posee de manera exclusiva el poder de establecer las leyes fundamentales.
 
-**Artículo XCII.** La Federación de las Islas Nullis es un estado de derecho y democrático.
+**Artículo XCI.**
 
-**Artículo XCIII.** La Soberanía de la Nación se ejerce mediante los Poderes de la Federación. Ningún individuo o grupo de personas hacer ejercicio de esa soberanía si no es ejercida mediante los mecanismos consticionales.
+1.  De la Soberanía de la Nación emanan los poderes del estado, entendidos en esta Constitución como Poderes de la Federación.
 
-**Artículo XCIV.** Los Poderes de la Federación son el Poder Legislativo, el Poder Ejecutivo y el Poder Judicial.
+**Artículo XCII.**
+
+1.  La Federación de las Islas Nullis es un estado de derecho y democrático.
+
+**Artículo XCIII.**
+
+1.  La Soberanía de la Nación se ejerce mediante los Poderes de la Federación.
+2.  Ningún individuo o grupo de personas hacer ejercicio de esa soberanía si no es ejercida mediante los mecanismos consticionales.
+
+**Artículo XCIV.**
+
+1.  Los Poderes de la Federación son el Poder Legislativo, el Poder Ejecutivo y el Poder Judicial.
 
   
 
@@ -139,15 +258,53 @@ Artículo XII: Toda persona tiene derecho al trabajo digno. La Federación recon
 
   
 
-**Artículo XCV.** El Poder Legislativo es el ejercicio soberano de establecer leyes fundamentales en la Federación, así como modificar esta Constitución, mediante los mecanismos constitucionales establecidos.
+**Artículo XCV.**
 
-**Artículo XCVI**. El Poder Legislativo toma el nombre de Parlamento General de la Federación de las Islas Nullis. Este poder se ejerce mediante dos cámaras.
+1.  El Poder Legislativo es el ejercicio soberano de establecer leyes fundamentales en la Federación, así como modificar esta Constitución, mediante los mecanismos constitucionales establecidos.
 
-**Artículo XCVI**I. La Camara de los Representantes es la cámara de representación popular, con una composicón de mínimo 80 Y máximo de 100 Representantes, elegidos por sufragio universal, secreto, directo y libre.
+**Artículo XCVI.**
 
-1.  La distribución de los Representantes se realizará de manera proporcional a la población de cada distrito electoral, garantizando la representación equitativa de todos los habitantes de las Islas Nullis.
-2.  La Camara de los Representantes es elegida para cinco años, terminando sus funciones exactamente cinco años después de su eleccióno cuando se realice su disolución.
+1.  El Poder Legislativo toma el nombre de Parlamento General de la Federación de las Islas Nullis.
+2.  Este poder se ejerce mediante dos cámaras. La Cámara de Representaes y la Consejo de la Federación.
+3.  La Cámara de Representantes y el Consejo pueden sesionar juntos, tomando el nombre de Parlamento General de la Federación de las Islas Nullis.
+4.  Estas supremas instituciones son inviolables.
+
+**Artículo XCVII.**
+
+1.  La Camara de los Representantes es la cámara de representación popular, con una composición de 100 Representantes, elegidos por sufragio universal, secreto, directo y libre.
+2.  La distribución de los Representantes se realizará de manera proporcional a la población de cada distrito electoral, garantizando la representación equitativa de todos los habitantes de las Islas Nullis.
+
+1.  Será un Representante por cada distrito electoral, dando así 100 distritos electorales en los que será dividida la Federación. La ley dará facultades al organismo electoral constitucional para expedir el decreto de división distrital, de acuerdo al apartado a de este artículo.
+
+4.  La Cámara de los Representantes es elegida para cinco años, terminando sus funciones exactamente cinco años después de su elección o cuando se realice su disolución.
+5.  Son elegibles para ser Representantes todos los ciudadanos de la Federación que estén en pleno uso de sus derechos políticos, excepto:
+
+1.  El Presidente o Presidenta de la Federación.
+2.  Los ministros del Poder Ejecutivo de la Federación.
+3.  Los Jefes y Directores de las Agencias e Instituciones Constitucionales.
+4.  Los Ministros del Tribunal Supremo de la Federación.
+5.  Los Senadores y Representantes de la legislatura que concluye.
+6.  Encargados del Poder Ejecutivo de las Autónomias de las Islas, así como miembros de los parlamentos locales.
+7.  Miembros de las Fuerzas Armadas de la Federación, en rangos menores a Teniente.
+
+7.  En caso de querer ser elegidos como Representantes deberán serpararse de su cargo con un año de anticipación mínimo antes de la elección. Se aplícará un tiempo de separación del cargo a dos años para el caso de:
+
+1.  Miembros de las Fuerzas Armadas de la Federación, en rangos iguales o mayores a Teniente.
+2.  Ministros de asociaciones religiosas.
+3.  Los Miembros de las Fuerzas Armadas de la Federación podrán optar entre su separación del cargo o pasar a la reserva.
 
   
 
--
+**Artículo XCVIII.**
+
+1.  Son funciones exclusivas de la Cámara de Representantes.
+
+1.  Desigar al Presidente de la Federación de las Islas Nullis.
+2.  Nombrar al Primer Ministro de la Federación de las Islas Nullis para que ejerza el Poder Ejecutivo de la Federación de acuerdo con esta Constitución.
+3.  Ratificar a los Ministros de Estado propuestos por el Primer Ministro de la Federación.
+4.  Aprobar los presupuestos generales de la Federación.
+5.  Aprobar los Régimenes Interiores de las Autonomías de las Islas.
+6.  Ratificar el nombramiento de los Jefes y Directores de las Agencias e Instituciones Constitucionales, así como a los Ministros del Tribunal Supremo de la Federación propuestos por el Primer Ministro de la Federación.
+7.  Ratificar la Declaración de Guerra a una nación extranjera, dicha declaración también puede ser aprobada por el Parlamento Permante.
+
+
