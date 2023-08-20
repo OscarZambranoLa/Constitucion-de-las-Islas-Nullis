@@ -14,6 +14,9 @@ Proyecto de creación de una Constitución para un país ficticio: **Las Islas N
 
 🌄 **Mapas y recursos gráficos:** Mapas de las Islas Nullis
 
+## Enlaces
+🏦  [Simulación de Legislatura en el Parlamento General de la Federación de las Islas Nullis](https://gastos.notion.site/gastos/Parlamento-General-de-la-Federaci-n-de-las-Islas-Nullis-72e11b28f2f0464c9be003840ef20bef)
+
 ## Consideraciones especiales estadísticas y geográficas.
 
  🧑🏽‍🦱 **La Federación tiene 7.5 millones de habitantes.**
