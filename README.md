@@ -10,7 +10,7 @@ Proyecto de creación de una Constitución para un país ficticio: **Las Islas N
 📜 **[Constitución de la Federación de las Islas Nullis.md](https://github.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/blob/main/texto/Constituci%C3%B3n%20de%20la%20Federaci%C3%B3n%20de%20las%20Islas%20Nullis.md)**: Archivo que contiene el texto completo de la constitución del país ficticio.
 
 
-📑 **Leyes:** Carpeta donde se incluyen las leyes órganicas de la Federación.
+📑 **[Leyes](https://github.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/tree/main/leyes)** Carpeta donde se incluyen las leyes órganicas de la Federación.
 
 🌄 **Mapas y recursos gráficos:** Mapas de las Islas Nullis
 
@@ -23,7 +23,7 @@ Proyecto de creación de una Constitución para un país ficticio: **Las Islas N
 
 | Isla                        | Población |Ley autonómica|
 | ----------------------------- | --------- |---|
-| **Isla Capital Autónoma de Costa Natura**| 2,100,000 |Estatuto de Autonomía|
+| **Isla Capital Autónoma de Costa Natura**| 2,100,000 |[Estatuto de autonomía](leyes/estatutos-autonomicos/Estatuto-de-Autonomia-de-la-Isla-Capital-Autonoma-de-Costa-Natura.md)|
 | Región Autónoma de Antalosia  | 1,500,000 ||
 | Región Autónoma de Findalina  | 850,000   ||
 | Región Autónoma de Jisalinse  | 780,000   ||
