@@ -21,16 +21,17 @@ Proyecto de creación de una Constitución para un país ficticio: **Las Islas N
 
  🧑🏽‍🦱 **La Federación tiene 7.5 millones de habitantes.**
 
-| Región                        | Población |
-| ----------------------------- | --------- |
-| Ciudad Capital Autónoma de Costa Natura       | 2,100,000 |
-| Región Autónoma de Antalosia  | 1,500,000 |
-| Región Autónoma de Findalina  | 850,000   |
-| Región Autónoma de Jisalinse  | 780,000   |
-| Región Autónoma de Marinasial | 650,000   |
-| Región Autónoma de Sinjoya    | 550,000   |
-| Región Autónoma de Trualapie  | 480,000   |
-| Región Autónoma de Valacare   | 490,000   |
+| Isla                        | Población |Ley autonómica|
+| ----------------------------- | --------- |---|
+| **Isla Capital Autónoma de Costa Natura**| 2,100,000 |Estatuto de Autonomía|
+| Región Autónoma de Antalosia  | 1,500,000 ||
+| Región Autónoma de Findalina  | 850,000   ||
+| Región Autónoma de Jisalinse  | 780,000   ||
+| Isla Autónoma de Marinasial | 650,000   |Fuero del Pueblo de Marinasial|
+| Región Autónoma de Sinjoya    | 550,000   ||
+| Región Autónoma de Trualapie  | 480,000   ||
+| Región Autónoma de Valacare   | 490,000   ||
+
 
 
 
