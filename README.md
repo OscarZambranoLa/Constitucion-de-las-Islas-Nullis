@@ -1,7 +1,7 @@
 
 # Constitución de la Federación de las Islas Nullis 🗺️
 
-![Banner de proyecto](https://github.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/raw/main/recursos-graficos/banner%281%29.png)
+![Banner del Prpyecto](https://raw.githubusercontent.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/main/recursos-graficos/Banner-Nuevo.png)
 
 Proyecto de creación de una Constitución para un país ficticio: **Las Islas Nullis**.
 
