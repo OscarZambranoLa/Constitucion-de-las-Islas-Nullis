@@ -153,21 +153,32 @@ Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nu
 
 1.  Toda persona tiene derecho al trabajo digno.
 2.  La Federación reconoce que el trabajo no debe ser tratado como una mercancía, sujeta a leyes de mercado.
-3.  El Parlamento de la Federación de las Islas Nullis emitirá una ley orgánica para regular este derecho, y los contratos individuales o colectivos de trabajo, que se regirá sobre las siguientes bases.
+3.  El Parlamento de la Federación de las Islas Nullis emitirá una ley orgánica para regular este derecho, y los contratos individuales o colectivos de trabajo, que se regirá sobre las siguientes bases. 
+a. Los Trabajadores tienen derecho a:
 
-1.  Los Trabajadores tienen derecho a:
+     - A los derechos contemplados en esta Constitución, las leyes que se deriven de ella y aquellos contemplados en los tratados internacionales ratificados por la Federación.
+     - A un trabajo digno, que respete su salud física y mental.
+     - A la atención médica sufragada tripartitamente entre trabajadores, empleadores y la Federación. La atención médica será otorgada mediante un Instituto Autónomo, dependiente del Gobierno de la Federación.
+     - Al descanso y al ocio en una parte razonable de su día.
+     - A un salario digno, que le permita sufragar sus gastos personales y los de su familia.
+     - Al sueño reparador. Para aquellos trabajadores que tengan que cumplir una jornada nocturna aplicará una prima del 25% sobre su salario. Ningún trabajador podrá cumplir más de treinta días en un horario nocturno. Por cada treinta de estos días se otorgarán 30 días en trabajo diurno.
+     - A dos días de descanso por cada cinco trabajados durante la semana. Los trabajadores que tengan y acepten trabajar en sus días de descanso obtendrán una prima del 100%.
+     - Para los trabajadores cuyos días de descanso coincidan con los días feriados oficiales de las Federación y acepten trabajar en ellos, la prima será del 200%.
+     - A una preferencia en el descanso para los días sábado y domingo. En caso de trabajar el sábado obtendrán una prima del 5%. Para el día domingo, esta prima será del 20%.
+     - A su desconexión digital de asuntos laborales antes y después de su jornada laboral, así como en sus días de descanso y vacaciones.
+     - A la libertad de asociación con otros trabajadores para defender sus derechos, sin la intervención de los patrones. Los trabajadores podrán usar esta libertad como medio coercitivo para mejorar sus condiciones laborales y hacer respetar sus derechos consagrados. El ejercicio de este derecho solo es legítimo si se respetan las siguientes condiciones:
+       - Quedan prohibidas las manifestaciones de violencia física contra cualquier persona, incluyendo el empleador y otros trabajadores.
+       - No se permite el daño a propiedad del empleador.
+       - No se permite alterar el orden público.
+       - A un seguro de desempleo sufragado por el patrón que le permita su supervivencia económica durante un mes si su despido se produce de manera justificada. Para el caso de un despido de manera injustificada, el seguro debe cubrir al menos tres meses de supervivencia económica. La ley regulará la clasificación de las causas de despido.
 
-1.  A los derechos contemplados en esta Constitución, las leyes que se deriven de ella y aquellos contemplados en los tratados internacionales ratificados por la Federación.
-2.  A un trabajo digno, que respete su salud física y mental.
-3.  Al descanso y al ocio en una parte razonable de su día.
-4.  A un salario digno, que le permita sufragar sus gastos personales y los de su familia.
-5.  Al sueño reparador. Para aquellos trabajadores que tengan que cumplir una jornada nocturna aplicará una prima del 25% sobre su salario. Ningún trabajador podrá cumplir más de treinta días en un horario nocturno. Por cada treinta de estos días se otorgarán 30 días en trabajo diurno.
-6.  A dos días de descanso por cada cinco trabajados durante la semana. Los trabajadores que tengan y acepten trabajar en sus días de descanso obtendrán una prima del 100%.
+#### Capítulo 2: Derechos de los Empleadores
 
-1.  Para los trabajadores cuyos días de descanso coincidan con los días feriados oficiales de las Federación y acepten trabajar en ellos la prima será del 200%.
+1. Los empleadores tienen derecho a:
 
-8.  A un preferencia en el descaso para los días sábado y domingo. En caso de trabajar el sábado obtendrán una prima del 5%. Para el día domingo esta prima será del 20%.
-
+   - Contratar a los trabajadores que consideren apropiados, de acuerdo a la experiencia laboral previa, formación laboral y aptitudes técnicas. Quedan prohibidas otras formas de discriminación en la contratación.
+   - Establecer libremente los salarios devengados a los trabajadores. No se podrá reducir el salario bruto de los trabajadores previamente establecido y alguna vez devengado.
+   - Colocar libremente a los trabajadores en las áreas que se consideren oportunas. Los trabajadores pueden objetar reubicaciones si:
 ## Título segundo: De la configuración de la Federación.
 
 **Artículo XXX.**
