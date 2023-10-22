@@ -1,39 +1,36 @@
+# Constitucion de las Federación de las Islas Nullis.
 
+Constitucion de las Federación de las Islas Nullis.
 
 ## Preámbulo
 
 Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nuestros representantes democráticamente electos y reunidos en Congreso Constituyente, teniendo en cuenta la historia de nuestros pueblos, concluimos que formar un estado nacional corresponde mejor a los intereses de nuestros habitantes, por ello decidimos proclamar la siguiente:
 
-# Constitucion de la Federación de las Islas Nullis.
   
 
-## Título primero: De los Derechos Humanos
+  
+
+## Título primero: De los Derechos Humanos.
+
+## **Capítulo I. De los Derechos Humanos inherentes a las personas.**
+
+  
 
 **Artículo I.**
 
-1.  Todo individuo tendrá derecho al respeto de sus Derechos Humanos, sin discriminación de ningún tipo.
+1.  Toda persona tiene derecho al uso, respeto, goce y defensa de sus Derechos Humanos, sin discriminación de ningún tipo, siempre favoreciendo la protección más amplia. Todas las personas, organizaciones y autoridades deben garantizar el cumplimiento de estos derechos.
+2.  Las salvaguardas y excepciones serán fijadas por esta Constitución, siempre bajo un estricto marco legal y con un juicio justo y garantías.
+3.  Las violaciones a los mismos derechos deben ser reparadas y sancionadas conforme a la ley.
 
   
 
 **Artículo II.**
 
-2.  Los Derechos Humanos serán interpretados como aquellos presentes en la Declaración Universal de los Derechos Humanos.
+1.  Los Derechos Humanos serán interpretados de acuerdo con lo establecido en la Declaración Universal de los Derechos Humanos, esta Constitución y otros instrumentos internacionales ratificados por la Federación.
 
   
 
 **Artículo III.**
-
-1.  Vulnerar estos derechos constituye el crimen más alto en la Justicia de las Islas Nullis, el Código Penal de las Islas Nullis lo tipificará así
-
-  
-
-**Artículo IV.**
-
-2.  El Tribunal Superior de las Islas Nullis tendrá la capacidad de disponer si algún individuo o ciudadano de las Islas Nullis será juzgado en la Corte Internacional de Justicia.
-
-  
-
-**Artículo V.**
 
 2.  Todo individuo tiene derecho a la libertad y seguridad personales.
 3.  Nadie será sometido a torturas ni a tratos o penas crueles, inhumanos o degradantes.
@@ -41,20 +38,20 @@ Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nu
 
   
 
-**Artículo VI.**
+**Artículo IV.**
 
 1.  Todo individuo tiene derecho a la personalidad júridica y no podrá ser despojado de ella, únicamente se podran restringir ciertos derechos bajo los linemientos indicados en esta Constitución.
 
   
 
-**Artículo VII.**
+**Artículo V.**
 
 1.  Toda persona tiene derecho a un jucio justo y de garantías, de conformidad con lo establecido en esta constitución, la Declaración Universal de los Derechos Humanos y el Artículo 14 del Pacto Internacional de Derechos Civiles y Políticos de las Naciones Unidas, así como otros tratados internacionales de los que la Federación forme parte.
 2.  Los detalles, salvaguardas y plazos razonables para salvaguardar este derecho seán regulados por una ley orgánica.
 
   
 
-**Artículo VII.**
+**Artículo VI.**
 
 1.  Toda persona tiene derecho a la libertad de expresión.
 2.  Este derecho incluye la libertad de buscar y difundir información, sin importar fronteras ni el tipo de información.
@@ -68,7 +65,7 @@ Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nu
 
   
 
-**Artículo IX.**
+**Artículo VII.**
 
 1.  Toda persona tiene derecho a la libertad de pensamiento y conciencia.
 2.  Todo individuo tiene derecho a cambiar de pensamiento y religión, así como a no tener una.
@@ -83,27 +80,28 @@ Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nu
 
   
 
-**Artículo X:**
+**Artículo VIII:**
 
 1.  Toda persona tiene derecho a la educación.
 2.  La Federación y las partes integrantes de la misma garantizarán una educación que será.
 
-1.  De calidad, de conformidad con el máximo desarollo posible que los individuos deseen lograr de manera individual.
-2.  Gratuita, en los niveles de educación inicial, secundaria y media superior. La Federación y las partes integrantes de la misma deberán también proveer alternativas gratuitas de educación superior que se rigan bajos los principios de este artículo. La educación privada será permitida y apoyada.
-3.  Será científica y humanística, sin imponer ninguna perspectiva religiosa o dogmática. Se promoverá una formación integral que incluya la enseñanza de valores universales como la tolerancia, el respeto a la diversidad, la igualdad de género y la justicia social.
-4.  Será de mejora constante y de infraestructura de calidad, la Federación establecerá un organismo de evaluación constante de la educación, buscando el cumplimiento más fiel a este artículo y su acercamiento a los mejores sistemas educativos del mundo.
-5.  Laica, respetando la libertad de creencias y diversidad que es inherentemente humana.
+	1.  De calidad, de conformidad con el máximo desarollo posible que los individuos deseen lograr de manera individual.
+	2.  Gratuita, en los niveles de educación inicial, secundaria y media superior. La Federación y las partes integrantes de la misma deberán también proveer alternativas gratuitas de educación superior que se rigan bajos los principios de este artículo. La educación privada será permitida y apoyada.
+	3.  Será científica y humanística, sin imponer ninguna perspectiva religiosa o dogmática. Se promoverá una formación integral que incluya la enseñanza de valores universales como la tolerancia, el respeto a la diversidad, la igualdad de género y la justicia social.
+	4.  Será de mejora constante y de infraestructura de calidad, la Federación establecerá un organismo de evaluación constante de la educación, buscando el cumplimiento más fiel a este artículo y su acercamiento a los mejores sistemas educativos del mundo.
+	5.  Laica, respetando la libertad de creencias y diversidad que es inherentemente humana.
 
-4.  La educación de ninguna manera incluirá incitación a los dircursos de odio, racismo o discriminación, sin embargo deberá enseñarse a los estudiantes los acontecimientos históricos de la humanidad de manera científica e históricamente responsable, fijando como meta la reflexión moral y la prevención de actitudes discriminatorias o xénofobas.
-5.  Las escuelas religiosas serán permitidas y apoyadas. Las mismas deberán apegarse a los mismos criterios de prohibición de discriminación.
+
+	6.  La educación de ninguna manera incluirá incitación a los dircursos de odio, racismo o discriminación, sin embargo deberá enseñarse a los estudiantes los acontecimientos históricos de la humanidad de manera científica e históricamente responsable, fijando como meta la reflexión moral y la prevención de actitudes discriminatorias o xénofobas.
+	7.  Las escuelas religiosas serán permitidas y apoyadas. Las mismas deberán apegarse a los mismos criterios de prohibición de discriminación.
 
   
 
-**Artículo XI.**
+**Artículo IX.**
 
 1.  Toda persona tiene derecho a su propia identidad, que incluye su nombre, nacionalidad, identidad de género, filiaciones y cualquier otro elemento que lo distinga como persona única en la sociedad, incluyendo su identidad digital.
 2.  Toda persona tiene derecho a decidir libremente su identidad de género, así como su expresión e identificación.
-3.  En la Federación toda persona tiene derecho reconocida y tratada de acuerdo con su identidad de género autopercibida, la cual puede ser distinta del sexo asignado al nacer.
+3.  En la Federación toda persona tiene derecho a ser reconocida y tratada de acuerdo con su identidad de género autopercibida, la cual puede ser distinta del sexo asignado al nacer.
 4.  La Federación proveerá los mecanismos para poder cambiar legalmente el nombre y el género en los documentos oficiales.
 5.  Toda persona tiene derecho a expresarse en su lengua de nacimento y en cualquier otra lengua adquirida.
 
@@ -111,16 +109,13 @@ Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nu
 
   
 
-**Artículo XXI.**
+**Artículo X.**
 
 1.  Toda persona tiene el derecho fundamental y légitimo de negarse a participar en actos que impliquen la toma de vidas humanas.
 
-1.  La Federación garantizará y promoverá el respeto y la protección de este derecho en todos los ámbitos, incluyendo, pero no limitado a, el servicio militar voluntario, las fuerzas de seguridad y cualquier otro escenario en el cual se exija el uso de la fuerza letal.
+1.  La Federación garantizará y promoverá el respeto y la protección de este derecho en todos los ámbitos, incluyendo, pero no limitado a, el servicio militar voluntario, las fuerzas de seguridad y cualquier otro escenario en el cual se exija el uso de la fuerza letal. 
 
--     
-    
-
-**Artículo XII.**
+**Artículo XI.**
 
 1.  Toda persona tiene derecho a moverse libremente por el territorio de la Federación y establcecer su residencia donde le parezca pertinente.
 
@@ -131,54 +126,88 @@ Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nu
 
 1.  Asimismo, se fomentará la accesibilidad en el entorno urbano, mediante la adaptación de aceras, cruces de calles, paradas de transporte público y demás infraestructuras relacionadas.
 
--     
-    
-
-**Artículo XIII.**
+**Artículo XII.**
 
 1.  Toda persona en las Islas Nullis es libre y no está sujeta a servidumbre de nungana persona u organización.
 2.  Todo aquel esclavo de cualquier territorio es libre por el solo hecho de pisar el Terrritorio de la Federación, incluyendo embajadas y consulados, así como aeronaves y embarcaciones de bandera nacional.
 3.  La Federación combatirá diversas formas de esclavitud moderna, que pueden incluir, entre otras:
 
-1.  La trata de personas.
-2.  El trabajo forzado y la explotación laboral.
-3.  Trabajo infantil.
-4.  Trafico de seres humanos, sin importar su nacionalidad.
+	1.  La trata de personas.
+	2.  El trabajo forzado y la explotación laboral.
+	3.  Trabajo infantil.
+	4.  Trafico de seres humanos, sin importar su nacionalidad.
 
-5.  La Federación creará una agencia autónoma que, en conjunto y coloboración con el Ministerio Público administré el combate institucional y cultural al trabajo sexual forzado.
+4.  La Federación creará una agencia autónoma que, en conjunto y coloboración con el Ministerio Público administré el combate institucional y cultural al trabajo sexual forzado.
 
   
 
-**Artículo XIV.**
+**Artículo XII.**
 
 1.  Toda persona tiene derecho al trabajo digno.
 2.  La Federación reconoce que el trabajo no debe ser tratado como una mercancía, sujeta a leyes de mercado.
-3.  El Parlamento de la Federación de las Islas Nullis emitirá una ley orgánica para regular este derecho, y los contratos individuales o colectivos de trabajo, que se regirá sobre las siguientes bases. 
-a. Los Trabajadores tienen derecho a:
+3.  El Parlamento de la Federación de las Islas Nullis emitirá una ley orgánica para regular este derecho, y los contratos individuales o colectivos de trabajo, que se regirá sobre las siguientes bases.
 
-     - A los derechos contemplados en esta Constitución, las leyes que se deriven de ella y aquellos contemplados en los tratados internacionales ratificados por la Federación.
-     - A un trabajo digno, que respete su salud física y mental.
-     - A la atención médica sufragada tripartitamente entre trabajadores, empleadores y la Federación. La atención médica será otorgada mediante un Instituto Autónomo, dependiente del Gobierno de la Federación.
-     - Al descanso y al ocio en una parte razonable de su día.
-     - A un salario digno, que le permita sufragar sus gastos personales y los de su familia.
-     - Al sueño reparador. Para aquellos trabajadores que tengan que cumplir una jornada nocturna aplicará una prima del 25% sobre su salario. Ningún trabajador podrá cumplir más de treinta días en un horario nocturno. Por cada treinta de estos días se otorgarán 30 días en trabajo diurno.
-     - A dos días de descanso por cada cinco trabajados durante la semana. Los trabajadores que tengan y acepten trabajar en sus días de descanso obtendrán una prima del 100%.
-     - Para los trabajadores cuyos días de descanso coincidan con los días feriados oficiales de las Federación y acepten trabajar en ellos, la prima será del 200%.
-     - A una preferencia en el descanso para los días sábado y domingo. En caso de trabajar el sábado obtendrán una prima del 5%. Para el día domingo, esta prima será del 20%.
-     - A su desconexión digital de asuntos laborales antes y después de su jornada laboral, así como en sus días de descanso y vacaciones.
-     - A la libertad de asociación con otros trabajadores para defender sus derechos, sin la intervención de los patrones. Los trabajadores podrán usar esta libertad como medio coercitivo para mejorar sus condiciones laborales y hacer respetar sus derechos consagrados. El ejercicio de este derecho solo es legítimo si se respetan las siguientes condiciones:
-       - Quedan prohibidas las manifestaciones de violencia física contra cualquier persona, incluyendo el empleador y otros trabajadores.
-       - No se permite el daño a propiedad del empleador.
-       - No se permite alterar el orden público.
-       - A un seguro de desempleo sufragado por el patrón que le permita su supervivencia económica durante un mes si su despido se produce de manera justificada. Para el caso de un despido de manera injustificada, el seguro debe cubrir al menos tres meses de supervivencia económica. La ley regulará la clasificación de las causas de despido.
+4.  Los Trabajadores tienen derecho a:
 
-#### Capítulo 2: Derechos de los Empleadores
+	1.  A los derechos contemplados en esta Constitución, las leyes que se deriven de ella y aquellos contemplados en los tratados internacionales ratificados por la Federación.
+	2.  A un trabajo digno, que respete su salud física y mental.
+	3.  A la atención médica sufragada tripartitamente entre trabajadores, empleadores y la Federación. La atención médica será otorgada mediante un Instituto Autónomo, dependiente del Gobierno de la Federación.
+	4.  Al descanso y al ocio en una parte razonable de su día.
+	5.  A un salario digno, que le permita sufragar sus gastos personales y los de su familia.
+	6.  Al sueño reparador. Para aquellos trabajadores que tengan que cumplir una jornada nocturna aplicará una prima del 25% sobre su salario. Ningún trabajador podrá cumplir más de treinta días en un horario nocturno. Por cada treinta de estos días se otorgarán 30 días en trabajo diurno.
+	7.  A dos días de descanso por cada cinco trabajados durante la semana. Los trabajadores que tengan y acepten trabajar en sus días de descanso obtendrán una prima del 100%.
 
-1. Los empleadores tienen derecho a:
+	8.  Para los trabajadores cuyos días de descanso coincidan con los días feriados oficiales de las Federación y acepten trabajar en ellos la prima será del 200%.
 
-   - Contratar a los trabajadores que consideren apropiados, de acuerdo a la experiencia laboral previa, formación laboral y aptitudes técnicas. Quedan prohibidas otras formas de discriminación en la contratación.
-   - Establecer libremente los salarios devengados a los trabajadores. No se podrá reducir el salario bruto de los trabajadores previamente establecido y alguna vez devengado.
-   - Colocar libremente a los trabajadores en las áreas que se consideren oportunas. Los trabajadores pueden objetar reubicaciones si:
+	9.  A un preferencia en el descaso para los días sábado y domingo. En caso de trabajar el sábado obtendrán una prima del 5%. Para el día domingo esta prima será del 20%.
+	10.  A su desconexión digital de asuntos laborales antes y después de su jornada laboral, así como en sus días de descanso y vacaciones.
+	11.  A la libertad de asociación con otros trabajadores para defender su derechos, sin la intervención de los patrones. Los trabajadores podrán usar esta libertad como medio coercitivo para mejorar sus condiciones laborales y hacer respertar sus derechos consagrados. El ejercicio de este derecho solo es légitimo si se respetan las siguentes condiciones.
+
+	a.  Quedan prohibidas las manifestaciones de violencia física contra 		   cualquier persona, incluyendo el empleador y otros trabajadores.
+	b.  No se permite el daño a propiedad del empleador.
+	c.  No se permite alterar el orden público.
+
+	7.  A un seguro de desempleo sufragado por el patrón que le permita su supervivencia económica durante un mes si su despido se produce de manera justificada. Para el caso de un despido de manera injustificada, el seguro debe cubrir al menos tres meses de supervivencia económica. La ley regulará la clasificación de las causas de despido.
+
+5.  Los empleadores tienen derecho a:
+
+	1.  Contratar a los trabajadores que consideren apropiados, de acuerdo a la experiencia laboral previa, formación laboral y aptitudes técnicas. Quedan prohibidas otras formas de discriminación en la contratación.
+	2.  Establecer libremente los salarios devengados a los trabajadores. No se podrá reducir el salario bruto de los trabajadores previamente establecido y alguna vez devengado.
+	3.  Colocar libremente a los trabajadores en las áreas que se consideren oportunas. Los trabajadores pueden objetar reubiciones sí.
+
+	a.  El nuevo lugar de trabajo se encuentra a más de 15 kilométros del 	previo lugar de trabajo. Para poder realizar una nueva reubicación el trabajador tiene derecho a permanecer un año en el lugar de trabajo.
+
+  
+
+TRABAJO EN PROCESO
+
+  
+
+**Artículo XIII.**
+
+1.  Toda persona tiene derecho a una alimentación saludable y auna hidratación suficiente. La Federación regulará los estándares de calidad necesarios para la salubridad de los aliementos.
+
+## **Capítulo II. De las consecuencias y reparaciones de la amenaza al quebrantamiento de Derechos Humanos.**
+
+**Artículo XXV.**
+
+1.  La presente Constitución establece de manera categórica la condena y el rechazo absoluto de todos los actos que constituyan delitos de lesa humanidad. Se consideran delitos de lesa humanidad aquellos actos generalizados o sistemáticos que atenten contra los derechos más fundamentales de la población civil, incluyendo, pero no limitándose a, el homicidio, la esclavitud, la violación, actos de violencia sexual grave, el traslado forzoso de población, la tortura, las detenciones arbitrarias, la desaparición forzada, la persecución de grupos específicos de la población, la segregación racial, y cualquier otro acto cometido con la intención de lesionar la integridad física y mental, la libertad personal, la igualdad, la dignidad y la vida de las personas.
+2.  El Estado, sus autoridades, y todos los órganos de poder tienen la obligación inquebrantable de prevenir, investigar, sancionar y reparar los delitos de lesa humanidad. Los responsables de la comisión de estos actos deberán ser llevados ante la justicia, sin excepción, y serán sujetos a sanciones proporcionales a la gravedad de sus acciones.
+3.  Los derechos humanos fundamentales de todas las personas, sin distinción, deberán ser respetados y protegidos en todo momento. Cualquier acto que atente contra estos derechos será considerado un delito grave, sujeto a las leyes y tratados internacionales aplicables.
+4.  La comunidad internacional y la solidaridad entre naciones se consideran esenciales en la prevención y condena de los delitos de lesa humanidad. El Estado se compromete a colaborar activamente con las organizaciones internacionales y otros Estados para promover la justicia y prevenir la impunidad.
+5.  Ninguna disposición de esta Constitución podrá ser interpretada de manera que permita la comisión de delitos de lesa humanidad. Cualquier disposición que contravenga este artículo se considerará nula y sin efecto.
+
+  
+
+**Artículo XXVI**
+
+1.  La Federación manifiesta su compromiso inquebrantable con la justicia internacional y la lucha contra la impunidad en casos de delitos de lesa humanidad.
+2.  La Federación colaborará activamente con la Corte Penal Internacional en la investigación y el enjuiciamiento de personas acusadas de cometer delitos de lesa humanidad. Esta colaboración incluirá la extradición de acusados, la entrega de pruebas y la cooperación en todos los aspectos necesarios para garantizar un proceso justo y equitativo.
+3.  Cualquier persona, sea ciudadano de la Federación o no, que esté acusada de la comisión de delitos de lesa humanidad, podrá ser juzgada y procesada de acuerdo con las leyes y procedimientos vigentes en la Corte Penal Internacional.
+4.  El Tribunal Supremo de la Federación ostenta la autoridad exclusiva para decidir si un individuo debe ser juzgado por la Corte Penal Internacional en casos relacionados con delitos de lesa humanidad.
+5.  La jurisdicción del Tribunal Supremo de la Federación se extiende a los casos de delitos de lesa humanidad que se cometan dentro de su territorio, y se reconocen las decisiones y resoluciones de la Corte Penal Internacional como vinculantes.
+6.  La Federación garantiza el respeto de los derechos fundamentales y las debidas garantías procesales para todas las personas acusadas de delitos de lesa humanidad, de conformidad con los estándares internacionales de derechos humanos.
+
 ## Título segundo: De la configuración de la Federación.
 
 **Artículo XXX.**
@@ -316,6 +345,9 @@ a. Los Trabajadores tienen derecho a:
 4.  Aprobar los presupuestos generales de la Federación.
 5.  Aprobar los Régimenes Interiores de las Autonomías de las Islas.
 6.  Ratificar el nombramiento de los Jefes y Directores de las Agencias e Instituciones Constitucionales, así como a los Ministros del Tribunal Supremo de la Federación propuestos por el Primer Ministro de la Federación.
-7.  Ratificar la Declaración de Guerra a una nación extranjera, dicha declaración también puede ser aprobada por el Parlamento Permante.
+7.  Ratificar la Declaración de Guerra a una nación extranjera, dicha declaración también puede ser aprobada por el Parlamento Perman3te.
 
+-     
+    
 
+-
