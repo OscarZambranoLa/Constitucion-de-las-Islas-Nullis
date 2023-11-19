@@ -3,7 +3,7 @@
 
 ![Banner de Proyecto](https://raw.githubusercontent.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/main/recursos-graficos/vista-satelital-hero.jpg)
 
-Proyecto de creación de una Constitución para un país ficticio: **Las Islas Nullis**.
+Proyecto de creación de una Constitución para un país ficticio: **La Federación de las Islas Nullis**.
 
 
 ## Estructura del repositorio 📃
