@@ -12,7 +12,7 @@ Proyecto de creación de una Constitución para un país ficticio: **La Federaci
 
 📑 **[Leyes](https://github.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/tree/main/leyes):** Carpeta donde se incluyen las leyes órganicas de la Federación.
 
-🌄 **Mapas y recursos gráficos:** Mapas de las Islas Nullis
+🌄 **[Mapas y recursos gráficos](https://github.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/tree/main/recursos-graficos):** Mapas de las Islas Nullis
 
 ## Enlaces
 🏦  [Simulación de Legislatura en el Parlamento General de la Federación de las Islas Nullis](https://gastos.notion.site/gastos/Parlamento-General-de-la-Federaci-n-de-las-Islas-Nullis-72e11b28f2f0464c9be003840ef20bef)
