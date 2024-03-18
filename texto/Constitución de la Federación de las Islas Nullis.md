@@ -1,3 +1,9 @@
+
+<div style="display: flex;">
+    <img src="https://raw.githubusercontent.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/main/recursos-graficos/Emblema-Nacional.jpeg" alt="Descripción de la imagen 1" width="50" height="50" style="margin-right: 10px;"/>
+    <img src="https://github.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/raw/main/recursos-graficos/Bandera de sello.png" alt="Descripción de la imagen 2" width="120" height="50"/>
+</div>
+
 # Constitucion de las Federación de las Islas Nullis.
 
 Constitucion de las Federación de las Islas Nullis.
