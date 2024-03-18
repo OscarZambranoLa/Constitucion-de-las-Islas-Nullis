@@ -1,6 +1,6 @@
-"Federació de las Islas Nullis
+# Federació de las Islas Nullis
 
-A tots aquells que tengin accés a aquest decret, Queda constància que lo Parlament General de la Federació de las Islas Nullis ha recolzat y jo ratifico lo següent llei:"
+_A tots aquells que tengin accés a aquest decret, Queda constància que lo Parlament General de la Federació de las Islas Nullis ha recolzat y jo ratifico lo següent llei:_
 
 
 Noi, el Pòble de Marinasial, en l'asèrghe d'una autonomia y in pursu de na guvernança que reflexa nistras tradizions e valors enradiscats en la stòria, proclamom solemnament aquest Fuèr com l'èxpresion de nistra voluntat coletiva. Discendènts de la gènt de la mar, nus recunossim a nusotris coma pèrsone lavoresh, oneste e lìbere.
