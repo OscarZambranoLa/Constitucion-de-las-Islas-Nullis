@@ -20,7 +20,7 @@ _Buscando que el ejercicio de la Soberanía Nacional corresponda fielmente con l
 
 _Ahora, por tanto,_
 
-_El Congreso Constituyente ha apobrado el pueblo ha ratificado la presente.__
+_El Congreso Constituyente ha apobrado el pueblo ha ratificado la presente._
 
   
 
