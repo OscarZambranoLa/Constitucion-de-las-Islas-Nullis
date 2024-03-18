@@ -1,4 +1,11 @@
+ Federación de las Islas Nullis
+
+_A todos aquellos que tengan acceso a este decreto, Queda constancia de que el Parlamento General de la Federación de las Islas Nullis ha respaldado y yo ratifico la siguiente ley:_
+
+## Fuero del Pueblo de Marinasial
+
 **Preámbulo**
+
 Nosotros, el Pueblo de Marinasial, en ejercicio de nuestra autonomía y en busca de un gobierno que refleje nuestras tradiciones y valores arraigados en la historia, proclamamos solemnemente este Fuero como la expresión de nuestra voluntad colectiva. Descendientes de la gente del mar, nos reconocemos a nosotros mismos como personas trabajadoras, honestas y libres.
 
 Hemos forjado nuestra identidad en la fusión armoniosa de Tierra, Mar y Familia, aspectos fundamentales que han definido nuestra existencia a lo largo de las generaciones. En esta tierra de Marinasial, donde las olas besan nuestras costas y la tierra nos brinda sus frutos, nos comprometemos a preservar y honrar nuestras raíces.
