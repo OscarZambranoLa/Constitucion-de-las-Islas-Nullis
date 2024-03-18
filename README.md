@@ -27,7 +27,7 @@ Proyecto de creación de una Constitución para un país ficticio: **La Federaci
 | Región Autónoma de Antalosia  | 1,500,000 ||
 | Región Autónoma de Findalina  | 850,000   ||
 | Región Autónoma de Jisalinse  | 780,000   ||
-| Isla Autónoma de Marinasial | 650,000   |Fuero del Pueblo de Marinasial|
+| Isla Autónoma de Marinasial | 650,000   |[Fuero del Pueblo de Marinasial](https://github.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/blob/main/leyes/estatutos-autonomicos/fuero-del-pueblo-de-marinasial/Fuero%20del%20Pueblo%20de%20Marinasial.md)|
 | Región Autónoma de Sinjoya    | 550,000   ||
 | Región Autónoma de Trualapie  | 480,000   ||
 | Región Autónoma de Valacare   | 490,000   ||
