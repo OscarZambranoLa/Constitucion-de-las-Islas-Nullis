@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/main/recursos-graficos/Emblema-Nacional.jpeg" alt="Descripción de la imagen" width="30"/> 
+<img src="https://raw.githubusercontent.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/main/recursos-graficos/Emblema-Nacional.jpeg" alt="Descripción de la imagen" width="50"/> 
 
 # Constitución de la Federación de las Islas Nullis 
 
