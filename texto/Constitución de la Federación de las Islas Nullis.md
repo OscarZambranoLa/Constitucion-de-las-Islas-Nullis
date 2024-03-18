@@ -6,13 +6,12 @@
 
 # Constitucion de las Federación de las Islas Nullis.
 
-Constitucion de las Federación de las Islas Nullis.
+
 
 ## Preámbulo
 
-Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nuestros representantes democráticamente electos y reunidos en Congreso Constituyente, teniendo en cuenta la historia de nuestros pueblos, concluimos que formar un estado nacional corresponde mejor a los intereses de nuestros habitantes, por ello decidimos proclamar la siguiente:
+_Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nuestros representantes democráticamente electos y reunidos en Congreso Constituyente, teniendo en cuenta la historia de nuestros pueblos, concluimos que formar un estado nacional corresponde mejor a los intereses de nuestros habitantes, por ello decidimos proclamar la siguiente:_
 
-  
 
   
 
