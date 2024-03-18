@@ -69,8 +69,9 @@ Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nu
 
 1.  Toda persona tiene derecho a la libertad de pensamiento y conciencia.
 2.  Todo individuo tiene derecho a cambiar de pensamiento y religión, así como a no tener una.
-3.  Se reconoce el derecho a ejercer cualquier tipo de religión, este ejecicio debe ser libre y voluntario.
-4.  Ninguna persona será discriminada por el ejercicio o la falta de la misma. Las limitaciones légitimas de la actividad religiosa, de pensamiento y de conciencia pueden incluir.
+3.  A ninguna persona se le podrá obligar a revelar el ejercicio de una religión.
+4.  Se reconoce el derecho a ejercer cualquier tipo de religión, este ejecicio debe ser libre y voluntario.
+5.  Ninguna persona será discriminada por el ejercicio o la falta de la misma. Las limitaciones légitimas de la actividad religiosa, de pensamiento y de conciencia pueden incluir.
 
 1.  La protección de los derechos humanos y libertad de pensamiento, conciencia y religión de otros.
 2.  La amenza del quebrantamiento del orden libre, democrático y constitucional de la Federación.
@@ -187,6 +188,30 @@ TRABAJO EN PROCESO
 
 1.  Toda persona tiene derecho a una alimentación saludable y auna hidratación suficiente. La Federación regulará los estándares de calidad necesarios para la salubridad de los aliementos.
 
+
+**Artículo XIV.**
+
+1. Toda persona tiene derecho a una conexión a Internet.
+2. La Federación promoverá la libre competencia entre las empresas ofrentes para garantizar una comexión que sea:
+  1. De alta velocidad
+  2. Neutral
+  3. Estable
+  4. Sin censura, con las salvaguaradas del Artículo VI constitucional.
+3. El Minsterio de Información y Comunicación será el organismo responsable de la tutela estatal en el ciberespacio y sus conexiones.
+
+
+
+**Artículo XIV.**
+
+1. Toda persona tiene derecho a contraer matrimonio con la persona de su elección, manteniendo los principios de consentimiento, mutualidad, equidad y solidaridad dentro del matrimonio.
+  1. Todos los matrimonios tienen la misma portección júridica en la Federación y en las Autonomías y Villas.
+  2. En ningún matrimonio existirá una persona superditada a otra, ambos gizando de los mismos derechos y obligaciones.
+2. Toda persona tiene derecho a ejerecer de manera responsable sus libertades sexuales con autonomía, privacidad, igualdad, placer, libre expresión, asociación y decisión.
+3. Toda persona tiene derecho a elegir el número de hijos que desea tener. Este apartado se interpretará con perspectiva de género.
+4. Toda persona tiene derecho a recibir información y educación sexual para el ejercion responsable de sus derechos sexuales.
+5. Toda persona tiene derecho a recibir atención médica preventiva, curativa y paleativa para cualquier enfermedad de origen sexual.
+6. El quebrantamiento de estos derechos constituye un quebrentamiento de los derechos humanos y se aplicarán penas de acuerdo con la ley.
+
 ## **Capítulo II. De las consecuencias y reparaciones de la amenaza al quebrantamiento de Derechos Humanos.**
 
 **Artículo XXV.**
@@ -209,6 +234,8 @@ TRABAJO EN PROCESO
 6.  La Federación garantiza el respeto de los derechos fundamentales y las debidas garantías procesales para todas las personas acusadas de delitos de lesa humanidad, de conformidad con los estándares internacionales de derechos humanos.
 
 ## Título segundo: De la configuración de la Federación.
+
+## Capítulo I. El espacio físico de la Federación de las Islas Nullis.
 
 **Artículo XXX.**
 
@@ -247,22 +274,62 @@ TRABAJO EN PROCESO
 
 **Artículo XL.**
 
-1.  Las Islas Autónomas y la Capital Federal podrán dotarse de un régimen interior. Dicho régimen no podrá ser contrario a esta constitución, ni a los instrumentos internacionales de los que la Federación forme parte.
-2.  Tampoco podrá atribuirse competencias de la Federación de conformidad con el Artículo XXXVIII.
+1. Las lenguas oficiales de la Federación son el castellano y las lenguas oficiales de las Autonomías.
+2. Los regímenes interiores de las Autonomías deben establecer al castellano como lengua cooficial.
+3. El castellano debe enseñarse obligatoriamente en todos los centros de educación básica del estado, sin menoscabo de la enseñanza de otras lenguas autonómicas de las Autonomías.
+4. El Diario Oficial de las Islas Nullis deberá publicarse en las lenguas oficiales de la Federación.
+5. Las lenguas oficiales de la Federación pueden ser utilizadas en el Pleno de Sesiones del Parlamento General de la Federación de las Islas Nullis y, por extensión, en las Cámaras de Representantes y en el Senado. Toda resolución, acuerdo y otros documentos aprobados por el pleno de estos órganos también serán publicados en las lenguas oficiales.
+6. Existirá siempre un ejemplar actualizado de esta Constitución en cada lengua oficial fácilmente accesible.
+7. En el Gobierno de las Islas Nullis, las Agencias e Institutos Constitucionales y en el Tribunal Supremo, la lengua del trabajo será en castellano.
+
+
 
 **Artículo XLI.**
 
-1.  Este régimen interior podrá denominarse Constitución, Estatuto o Fuero.
+1.  Las Islas Autónomas y la Capital Federal podrán dotarse de un régimen interior. Dicho régimen no podrá ser contrario a esta constitución, ni a los instrumentos internacionales de los que la Federación forme parte.
+2.  Tampoco podrá atribuirse competencias de la Federación de conformidad con el Artículo XXXVIII.
 
 **Artículo XLII.**
+
+1.  Este régimen interior podrá denominarse Constitución, Estatuto o Fuero.
+
+**Artículo XLIII.**
 
 1.  El régimen deberá ser aprobado por el Parlamento Locales de cada Isla Autónoma y por ambas cámaras del Parlameto de la Federación de las Islas Nullis.
 2.  Dicho régimen será publicado en el Boletín de la Federación y tendrá carácter de ley orgánica.
 3.  Cualquier modificación posterior del régimen interior requerirá el mismo procedimiento de aprobación establecido en este artículo.
 
-  
+## Capítulo II. De los ciudadanos de la Federación y los extranjeros.
 
--     
+
+**Artículo XXII.**
+
+1. Los ciudadanos de la Federación de las Islas Nullis pueden ser referidos como Nulliens, dichos términos son de uso equitativo en esta Constitución y en las leyes que de ella emanen, así como en actos de comercio, administrativos y legales. 
+
+**Artículo XXIII.**
+
+1. La Nacionalidad Nullien se adquiere por nacimiento o naturalización.
+  1. Son Nulliens por nacimiento:
+    1. Los nacidos en el territorio de la Federación, islas subyacentes y mar territorial de la Nación.
+    2. Los nacidos en el extranjero, de progenitor Nullien.
+    3. Los nacidos a bordo de aeronaves, embarcaciones y naves espaciales de bandera nacional.
+    4. Los nacidos en las embajadas de la Federación.
+  2. Son Nulliens por naturalización.
+    1. Los extranjeros que opten por la Nacionalidad Nullien y cumplan con alguno de los siguientes requisitos.
+      1. Tener un conyugue de Nacionalidad Nullien.
+      2. Tener un hijo de Nacionalidad Nullien.
+      3. Obtener el estatus de refugiado y cumplir dos años de residencia regular en la Federación.
+      4. Cumplir cinco años de residencia regular en la Federación.
+
+Artículo XXIV.
+
+1. Los extranjeros son aquellas personas que no cumplan con lo establecido en el Artículo XXIII.
+2. Los extranjeros gozan de todos los derechos del Título Primero de esta Constitución.
+3. Ninguna persona es ilegal en las Federación de las Islas Nullis.
+
+
+
+
     
 
 # Título tercero: De la Soberanía Nacional y la Forma de Gobierno de la Federación.
@@ -347,7 +414,11 @@ TRABAJO EN PROCESO
 6.  Ratificar el nombramiento de los Jefes y Directores de las Agencias e Instituciones Constitucionales, así como a los Ministros del Tribunal Supremo de la Federación propuestos por el Primer Ministro de la Federación.
 7.  Ratificar la Declaración de Guerra a una nación extranjera, dicha declaración también puede ser aprobada por el Parlamento Perman3te.
 
--     
+1. Son funciones exclusivas del Consejo del Estado.
+  1. La ratificación de los tratados e instrumentos internaciones firmados por el Poder Ejecutivo, de acuerdo con la Convención de Viena sobre el Derecho de los Tratados entre Estados y Organizaciones Internacionales o entre Organizaciones Internacionales.
     
 
--
+**Artículo XCIV.**
+
+1. Los Representantes y Consejeros del Estado de la Federación de las Islas Nullis gozarán de un fuero especial, donde no podrán ser juzgados por ningún crimen, exceptuando los de lesa humanidad, durante su periodo siendo miembros del Parlamento General de la Federación de las Islas Nullis.
+2. Los Representantes y Consejeros del Estado tomarán posesión de sus actas al acreditar ante los servicios general de sus cámara su acta de mayoría emitida por la Agencia Constitucional Electoral y después de jurar en la sesión constituyente de la legislatura con el siguiente juramento: «Juro, por mi honor, guardar y hacer guardar la Constitución de las Federación de las Islas Nullis y las leyes que de ella emanen, respetar los derechos humanos, la autonomía de las Islas y respeto al orden democrático»
