@@ -310,16 +310,16 @@ TRABAJO EN PROCESO
 
 1. La Nacionalidad Nullien se adquiere por nacimiento o naturalización.
   1. Son Nulliens por nacimiento:
-    1. Los nacidos en el territorio de la Federación, islas subyacentes y mar territorial de la Nación.
-    2. Los nacidos en el extranjero, de progenitor Nullien.
-    3. Los nacidos a bordo de aeronaves, embarcaciones y naves espaciales de bandera nacional.
-    4. Los nacidos en las embajadas de la Federación.
-  2. Son Nulliens por naturalización.
+    - 1. Los nacidos en el territorio de la Federación, islas subyacentes y mar territorial de la Nación.
+    - 2. Los nacidos en el extranjero, de progenitor Nullien.
+    - 3. Los nacidos a bordo de aeronaves, embarcaciones y naves espaciales de bandera nacional.
+     - 4. Los nacidos en las embajadas de la Federación.
+  3. Son Nulliens por naturalización.
     1. Los extranjeros que opten por la Nacionalidad Nullien y cumplan con alguno de los siguientes requisitos.
-      1. Tener un conyugue de Nacionalidad Nullien.
-      2. Tener un hijo de Nacionalidad Nullien.
-      3. Obtener el estatus de refugiado y cumplir dos años de residencia regular en la Federación.
-      4. Cumplir cinco años de residencia regular en la Federación.
+     - 1. Tener un conyugue de Nacionalidad Nullien.
+      - 2.  2. Tener un hijo de Nacionalidad Nullien.
+     - 3. Obtener el estatus de refugiado y cumplir dos años de residencia regular en la Federación.
+     - 4. Cumplir cinco años de residencia regular en la Federación.
 
 Artículo XXIV.
 
