@@ -10,8 +10,17 @@
 
 ## Preámbulo
 
-_Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nuestros representantes democráticamente electos y reunidos en Congreso Constituyente, teniendo en cuenta la historia de nuestros pueblos, concluimos que formar un estado nacional corresponde mejor a los intereses de nuestros habitantes, por ello decidimos proclamar la siguiente:_
+_Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nuestros representantes democráticamente electos y reunidos en Congreso Constituyente._
 
+_Convencidos que los derechos humanos son el camino marcado, como humanidad que nos hacemos llamar, para la creación de una sociedad digna para todos._
+
+_Considernado escencial que la democracia sea nuestro eje rector de toma de decisiones._
+
+_Buscando que el ejercicio de la Soberanía Nacional corresponda fielmente con la voluntad popular._
+
+_Ahora, por tanto,_
+
+_El Congreso Constituyente ha apobrado el pueblo ha ratificado la presente.__
 
   
 
