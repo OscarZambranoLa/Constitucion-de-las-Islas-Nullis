@@ -403,3 +403,16 @@ TRABAJO EN PROCESO
 
 1. Los Representantes y Consejeros del Estado de la Federación de las Islas Nullis gozarán de un fuero especial, donde no podrán ser juzgados por ningún crimen, exceptuando los de lesa humanidad, durante su periodo siendo miembros del Parlamento General de la Federación de las Islas Nullis.
 2. Los Representantes y Consejeros del Estado tomarán posesión de sus actas al acreditar ante los servicios general de sus cámara su acta de mayoría emitida por la Agencia Constitucional Electoral y después de jurar en la sesión constituyente de la legislatura con el siguiente juramento: «Juro, por mi honor, guardar y hacer guardar la Constitución de las Federación de las Islas Nullis y las leyes que de ella emanen, respetar los derechos humanos, la autonomía de las Islas y respeto al orden democrático»
+
+
+
+
+********
+**Firmada en el Salón de Sesiones del Parlamento General de la Federación de las Islas Nullis**  
+
+Oscar Zambrano Lara. _Presidente del Congreso Constituyente del Parlamento General de Federación de las Islas Nullis._  
+
+Para mi mamá, quien luchó con valentía hasta el final.
+
+ Descanse en paz.
+********
