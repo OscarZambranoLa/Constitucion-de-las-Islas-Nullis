@@ -92,7 +92,7 @@ _El Congreso Constituyente ha apobrado y el pueblo ha ratificado la presente._
 2.  La Federación y las partes integrantes de la misma garantizarán una educación que será.
 
 	1.  De calidad, de conformidad con el máximo desarollo posible que los individuos deseen lograr de manera individual.
-	2.  Gratuita, en los niveles de educación inicial, secundaria y media superior. La Federación y las partes integrantes de la misma deberán también proveer alternativas gratuitas de educación superior que se rigan bajos los principios de este artículo. La educación privada será permitida y apoyada.
+	2.  Gratuita, en los niveles de educación inicial, secundaria y media superior. La Federación y las partes integrantes de la misma deberán también proveer alternativas gratuitas de educación superior que se rijan bajos los principios de este artículo. La educación privada será permitida y apoyada.
 	3.  Será científica y humanística, sin imponer ninguna perspectiva religiosa o dogmática. Se promoverá una formación integral que incluya la enseñanza de valores universales como la tolerancia, el respeto a la diversidad, la igualdad de género y la justicia social.
 	4.  Será de mejora constante y de infraestructura de calidad, la Federación establecerá un organismo de evaluación constante de la educación, buscando el cumplimiento más fiel a este artículo y su acercamiento a los mejores sistemas educativos del mundo.
 	5.  Laica, respetando la libertad de creencias y diversidad que es inherentemente humana.
