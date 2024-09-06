@@ -110,9 +110,6 @@ _El Congreso Constituyente ha apobrado y el pueblo ha ratificado la presente._
 3.  En la Federación toda persona tiene derecho a ser reconocida y tratada de acuerdo con su identidad de género autopercibida, la cual puede ser distinta del sexo asignado al nacer.
 4.  La Federación proveerá los mecanismos para poder cambiar legalmente el nombre y el género en los documentos oficiales.
 5.  Toda persona tiene derecho a expresarse en su lengua de nacimento y en cualquier otra lengua adquirida.
-
-1.  La Federación tiene la obligación, de acuerdo a los censos poblacionales, de publicar la información gubernamental, júridica y educativa en las lenguas autóctonas de las Islas.
-
   
 
 **Artículo 9.**
