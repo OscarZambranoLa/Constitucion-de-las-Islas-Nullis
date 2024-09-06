@@ -196,10 +196,10 @@ TRABAJO EN PROCESO
 
 1. Toda persona tiene derecho a una conexión a Internet.
 2. La Federación promoverá la libre competencia entre las empresas ofrentes para garantizar una conexión que sea:
-  1. De alta velocidad
-  2. Neutral
-  3. Estable
-  4. Sin censura, con las salvaguaradas del Artículo 6 constitucional.
+  	1. De alta velocidad
+  	2. Neutral
+  	3. Estable
+  	4. Sin censura, con las salvaguaradas del Artículo 6 constitucional.
 3. El Minsterio de Información y Comunicación será el organismo responsable de la tutela estatal en el ciberespacio y sus conexiones.
 
 
