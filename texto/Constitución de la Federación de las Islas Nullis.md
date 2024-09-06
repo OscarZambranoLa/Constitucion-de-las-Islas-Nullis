@@ -195,7 +195,7 @@ TRABAJO EN PROCESO
 **Artículo 14.**
 
 1. Toda persona tiene derecho a una conexión a Internet.
-2. La Federación promoverá la libre competencia entre las empresas ofrentes para garantizar una comexión que sea:
+2. La Federación promoverá la libre competencia entre las empresas ofrentes para garantizar una conexión que sea:
   1. De alta velocidad
   2. Neutral
   3. Estable
