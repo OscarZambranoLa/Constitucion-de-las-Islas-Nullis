@@ -63,7 +63,7 @@ _El Congreso Constituyente ha apobrado y el pueblo ha ratificado la presente._
 3.  Las restricciones légitimas buscan promover la protección de los derechos de los demás individuos y estás pueden incluir.
 
 	1.  La protección de los derechos de privacidad y reputación de los individuos.
-	2.  La prohibición de incitación a la violencia, discriminación, odio o cualquier forma de discurso que atente contra los derechos humanos
+	2.  La prohibición de incitación a la violencia, discriminación, odio o cualquier forma de discurso que atente contra los derechos humanos.
 	3.  La protección de los derechos de los menores de edad.
 
 4.  Estas restricciones solo serán aplicadas por la autoridad comptente, interpretadas de manera restricitva y con todas las garantías del Artículo 5  constitucional.
