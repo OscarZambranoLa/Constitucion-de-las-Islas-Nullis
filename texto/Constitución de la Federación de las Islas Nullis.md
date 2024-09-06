@@ -209,7 +209,7 @@ TRABAJO EN PROCESO
 1. Toda persona tiene derecho a contraer matrimonio con la persona de su elección, manteniendo los principios de consentimiento, mutualidad, equidad y solidaridad dentro del matrimonio.
   1. Todos los matrimonios tienen la misma portección júridica en la Federación y en las Autonomías y Villas.
   2. En ningún matrimonio existirá una persona superditada a otra, ambos ejerciendo de los mismos derechos y obligaciones.
-2. Toda persona tiene derecho a ejerecer de manera responsable sus libertades sexuales con autonomía, privacidad, igualdad, placer, libre expresión, asociación y decisión.
+2. Toda persona tiene derecho a ejercer de manera responsable sus libertades sexuales con autonomía, privacidad, igualdad, placer, libre expresión, asociación y decisión.
 3. Toda persona tiene derecho a elegir el número de hijos que desea tener. Este apartado se interpretará con perspectiva de género.
 4. Toda persona tiene derecho a recibir información y educación sexual para el ejercion responsable de sus derechos sexuales.
 5. Toda persona tiene derecho a recibir atención médica preventiva, curativa y paliativa para cualquier enfermedad de origen sexual.
