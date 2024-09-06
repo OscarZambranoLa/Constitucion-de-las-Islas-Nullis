@@ -2,5 +2,5 @@
 <br>
 Oscar Zambrano Lara. *Presidente del Congreso Constituyente del Parlamento General de Federación de las Islas Nullis.*
 <br>
-Para mi mamá, quien lucho con valentía hasta el final. Descanse en paz.
+Para mi mamá, quien luchó con valentía hasta el final. Descanse en paz.
 ***
