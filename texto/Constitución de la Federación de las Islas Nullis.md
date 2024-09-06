@@ -41,10 +41,10 @@ _El Congreso Constituyente ha apobrado y el pueblo ha ratificado la presente._
 
 **Artículo 2.**
 
-2.  Todo individuo tiene derecho a la libertad y seguridad personales.
-3.  Nadie será sometido a torturas ni a tratos o penas crueles, inhumanos o degradantes.
-4.  Las penas que impliquen un casitigo corporal quedan prohibidas.
-5. En la Federación no existe la pena de muerte.
+1.  Todo individuo tiene derecho a la libertad y seguridad personales.
+2.  Nadie será sometido a torturas ni a tratos o penas crueles, inhumanos o degradantes.
+3.  Las penas que impliquen un casitigo corporal quedan prohibidas.
+4. En la Federación no existe la pena de muerte.
 
   
 
