@@ -211,7 +211,7 @@ TRABAJO EN PROCESO
   2. En ningún matrimonio existirá una persona superditada a otra, ambos ejerciendo de los mismos derechos y obligaciones.
 2. Toda persona tiene derecho a ejercer de manera responsable sus libertades sexuales con autonomía, privacidad, igualdad, placer, libre expresión, asociación y decisión.
 3. Toda persona tiene derecho a elegir el número de hijos que desea tener. Este apartado se interpretará con perspectiva de género.
-4. Toda persona tiene derecho a recibir información y educación sexual para el ejercio responsable de sus derechos sexuales.
+4. Toda persona tiene derecho a recibir información y educación sexual para el ejercicio responsable de sus derechos sexuales.
 5. Toda persona tiene derecho a recibir atención médica preventiva, curativa y paliativa para cualquier enfermedad de origen sexual.
 6. El quebrantamiento de estos derechos constituye un quebrentamiento de los derechos humanos y se aplicarán penas de acuerdo con la ley.
 
