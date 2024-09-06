@@ -189,7 +189,7 @@ TRABAJO EN PROCESO
 
 **Artículo 13.**
 
-1.  Toda persona tiene derecho a una alimentación saludable y auna hidratación suficiente. La Federación regulará los estándares de calidad necesarios para la salubridad de los aliementos.
+1.  Toda persona tiene derecho a una alimentación saludable y una hidratación suficiente. La Federación regulará los estándares de calidad necesarios para la salubridad de los aliementos.
 
 
 **Artículo 14.**
