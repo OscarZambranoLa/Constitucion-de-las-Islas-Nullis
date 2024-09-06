@@ -123,7 +123,7 @@ _El Congreso Constituyente ha apobrado y el pueblo ha ratificado la presente._
 
 1.  Toda persona tiene derecho a moverse libremente por el territorio de la Federación y establcecer su residencia donde le parezca pertinente.
 
-1.  Una ley orgánica regulará las excepciones por seguridad nacional y proteccion de la naturaleza.
+1.  La ley regulará las excepciones por seguridad nacional y proteccion de la naturaleza.
 
 3.  Toda persona tiene el derecho al acceso y uso del transporte público en la Federación de las Islas Nullis, garantizando su movilidad y la posibilidad de desplazarse de manera segura, eficiente y asequible dentro del territorio.
 4.  La Federación promoverá la accesibilidad en el transporte público, garantizando la disponibilidad de servicios de transporte adaptado y accesible, como vehículos con rampas o elevadores, espacios reservados para personas con movilidad reducida y sistemas de información accesibles.
