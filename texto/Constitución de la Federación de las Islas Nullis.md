@@ -141,7 +141,7 @@ _El Congreso Constituyente ha apobrado y el pueblo ha ratificado la presente._
 	3.  Trabajo infantil.
 	4.  Trafico de seres humanos, sin importar su nacionalidad.
 
-4.  La Federación creará una agencia autónoma que, en conjunto y colaboración con el Ministerio Público administre el combate institucional y cultural al trabajo sexual forzado.
+4.  La Federación creará una agencia autónoma que, en conjunto y colaboración con el Ministerio Público, administre el combate institucional y cultural al trabajo sexual forzado.
 
   
 
