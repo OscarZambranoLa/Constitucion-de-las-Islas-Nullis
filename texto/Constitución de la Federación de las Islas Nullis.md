@@ -6,23 +6,21 @@
 
 # Constitución de las Federación de las Islas Nullis.
 
-
-
 ## Preámbulo
 
-_Nosotros, los individuos y los pueblos de las Islas Nullis, representados por nuestros representantes democráticamente electos y reunidos en Congreso Constituyente._
+Nosotros, los individuos y los pueblos de las Islas Nullis, unidos en Congreso Constituyente y representados por nuestros plenipotenciarios democráticamente electos,
 
-_Convencidos que los derechos humanos son el camino marcado, como humanidad que nos hacemos llamar, para la creación de una sociedad digna para todos._
+Convencidos de que los derechos humanos son el camino trazado para la creación de una sociedad digna para todos, como humanidad que nos enorgullecemos de ser,
 
-_Considernado escencial que la democracia sea nuestro eje rector de toma de decisiones._
+Considerando esencial que la democracia sea el eje rector de nuestras decisiones,
 
-_Buscando que el ejercicio de la Soberanía Nacional corresponda fielmente con la voluntad popular._
+Buscando que el ejercicio de la Soberanía Nacional refleje fielmente la voluntad popular,
 
-_Ahora, por tanto,_
+Ahora, por tanto,
 
-_El Congreso Constituyente ha apobrado y el pueblo ha ratificado la presente._
+El Congreso Constituyente ha aprobado, y el pueblo ha ratificado, la presente
 
-  **Constitución de las Federación de las Islas Nullis.**
+**Constitución de la Federación de las Islas Nullis.**
 
 ## Título primero: De los Derechos Humanos.
 
