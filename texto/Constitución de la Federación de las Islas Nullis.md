@@ -22,6 +22,19 @@ El Congreso Constituyente ha aprobado, y el pueblo ha ratificado, la presente
 
 **Constitución de la Federación de las Islas Nullis.**
 
+
+## Título preliminar único
+
+**Artículo preliminar primero**  
+La Federación de las Islas Nullis es un Estado soberano, libre, democrático, social, laico, federal y sujeto al derecho internacional. Se fundamenta en el respeto a los derechos humanos y en la promoción de los valores democráticos y sociales.
+
+**Artículo preliminar segundo**  
+La Federación de las Islas Nullis representa la unión amistosa, cordial y voluntaria de las Islas Nullis y sus autonomías, basada en el respeto mutuo y la cooperación solidaria.
+
+**Artículo preliminar tercero**  
+Las personas en la Federación nacen y permanecen libres, interdependientes e iguales en dignidad y derechos.
+
+
 ## Título primero: De los Derechos Humanos.
 
 ## **Capítulo I. De los Derechos Humanos inherentes a las personas.**
