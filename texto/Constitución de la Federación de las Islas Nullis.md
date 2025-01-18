@@ -226,6 +226,13 @@ TRABAJO EN PROCESO
 5. Toda persona tiene derecho a recibir atención médica preventiva, curativa y paliativa para cualquier enfermedad de origen sexual.
 6. El quebrantamiento de estos derechos constituye un quebrentamiento de los derechos humanos y se aplicarán penas de acuerdo con la ley.
 
+
+**Artículo 16**  
+
+1. Toda persona tiene derecho a un trato igualitario en las instituciones de gobierno, así como en las entidades privadas que desarrollen actividades de interés público.  
+2. El Estado promoverá la igualdad en los ámbitos privados, así como la erradicación de la discriminación.  
+3. El Estado no otorga ni reconoce ningún título nobiliario.
+
 ## **Capítulo II. De las consecuencias y reparaciones de la amenaza al quebrantamiento de Derechos Humanos.**
 
 **Artículo 25.**
