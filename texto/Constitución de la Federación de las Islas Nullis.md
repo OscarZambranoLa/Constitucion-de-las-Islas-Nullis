@@ -411,10 +411,11 @@ TRABAJO EN PROCESO
 	4.  Aprobar los presupuestos generales de la Federación.
 	5.  Aprobar los Régimenes Interiores de las Autonomías de las Islas.
 	6.  Ratificar el nombramiento de los Jefes y Directores de las Agencias e Instituciones Constitucionales, así como a los Ministros del Tribunal Supremo de la Federación propuestos por el Primer Ministro de la Federación.
-	7.  Ratificar la Declaración de Guerra a una nación extranjera, dicha declaración también puede ser aprobada por el Parlamento Perman3te.
+
 
 2. Son funciones exclusivas del Consejo del Estado.
 	1. La ratificación de los tratados e instrumentos internaciones firmados por el Poder Ejecutivo, de acuerdo con la Convención de Viena sobre el Derecho de los Tratados entre Estados y Organizaciones Internacionales o entre Organizaciones Internacionales.
+ 2. Ratificar la declaración de guerra redactada por el ejecutivo.
     
 
 **Artículo 58.**
