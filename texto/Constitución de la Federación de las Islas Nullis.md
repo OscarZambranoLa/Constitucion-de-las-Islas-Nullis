@@ -295,7 +295,7 @@ TRABAJO EN PROCESO
 2. Los regímenes interiores de las Autonomías deben establecer al castellano como lengua cooficial.
 3. El castellano debe enseñarse obligatoriamente en todos los centros de educación básica del estado, sin menoscabo de la enseñanza de otras lenguas autonómicas de las Autonomías.
 4. El Diario Oficial de las Islas Nullis deberá publicarse en las lenguas oficiales de la Federación.
-5. Las lenguas oficiales de la Federación pueden ser utilizadas en el Pleno de Sesiones del Parlamento General de la Federación de las Islas Nullis y, por extensión, en las Cámaras de Representantes y en el Consejo del Estado. Toda resolución, acuerdo y otros documentos aprobados por el pleno de estos órganos también serán publicados en las lenguas oficiales.
+5. Las lenguas oficiales de la Federación pueden ser utilizadas en el Pleno de Sesiones del Parlamento General de la Federación de las Islas Nullis y, por extensión, en las Cámaras de Representantes y en el Consejo de la Federación. Toda resolución, acuerdo y otros documentos aprobados por el pleno de estos órganos también serán publicados en las lenguas oficiales.
 6. Existirá siempre un ejemplar actualizado de esta Constitución en cada lengua oficial fácilmente accesible.
 7. En el Gobierno de las Islas Nullis, las Agencias e Institutos Constitucionales y en el Tribunal Supremo, la lengua del trabajo será en castellano.
 
@@ -413,15 +413,15 @@ TRABAJO EN PROCESO
 	6.  Ratificar el nombramiento de los Jefes y Directores de las Agencias e Instituciones Constitucionales, así como a los Ministros del Tribunal Supremo de la Federación propuestos por el Primer Ministro de la Federación.
 
 
-2. Son funciones exclusivas del Consejo del Estado.
+2. Son funciones exclusivas del Consejo de la Federación.
 	1. La ratificación de los tratados e instrumentos internaciones firmados por el Poder Ejecutivo, de acuerdo con la Convención de Viena sobre el Derecho de los Tratados entre Estados y Organizaciones Internacionales o entre Organizaciones Internacionales.
  2. Ratificar la declaración de guerra redactada por el ejecutivo.
     
 
 **Artículo 58.**
 
-1. Los Representantes y Consejeros del Estado de la Federación de las Islas Nullis gozarán de un fuero especial, donde no podrán ser juzgados por ningún crimen, exceptuando los de lesa humanidad, durante su periodo siendo miembros del Parlamento General de la Federación de las Islas Nullis.
-2. Los Representantes y Consejeros del Estado tomarán posesión de sus actas al acreditar ante los servicios general de sus cámara su acta de mayoría emitida por la Agencia Constitucional Electoral y después de jurar en la sesión constituyente de la legislatura con el siguiente juramento: «Juro, por mi honor, guardar y hacer guardar la Constitución de las Federación de las Islas Nullis y las leyes que de ella emanen, respetar los derechos humanos, la autonomía de las Islas y respeto al orden democrático»
+1. Los Representantes y Consejeros de de la Federación de las Islas Nullis gozarán de un fuero especial, donde no podrán ser juzgados por ningún crimen, exceptuando los de lesa humanidad, durante su periodo siendo miembros del Parlamento General de la Federación de las Islas Nullis.
+2. Los Representantes y Consejeros de la Federación tomarán posesión de sus actas al acreditar ante los servicios general de sus cámara su acta de mayoría emitida por la Agencia Constitucional Electoral y después de jurar en la sesión constituyente de la legislatura con el siguiente juramento: «Juro, por mi honor, guardar y hacer guardar la Constitución de las Federación de las Islas Nullis y las leyes que de ella emanen, respetar los derechos humanos, la autonomía de las Islas y respeto al orden democrático»
 
 
 
