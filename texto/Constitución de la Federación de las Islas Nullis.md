@@ -295,7 +295,7 @@ TRABAJO EN PROCESO
 2. Los regímenes interiores de las Autonomías deben establecer al castellano como lengua cooficial.
 3. El castellano debe enseñarse obligatoriamente en todos los centros de educación básica del estado, sin menoscabo de la enseñanza de otras lenguas autonómicas de las Autonomías.
 4. El Diario Oficial de las Islas Nullis deberá publicarse en las lenguas oficiales de la Federación.
-5. Las lenguas oficiales de la Federación pueden ser utilizadas en el Pleno de Sesiones del Parlamento General de la Federación de las Islas Nullis y, por extensión, en las Cámaras de Representantes y en el Senado. Toda resolución, acuerdo y otros documentos aprobados por el pleno de estos órganos también serán publicados en las lenguas oficiales.
+5. Las lenguas oficiales de la Federación pueden ser utilizadas en el Pleno de Sesiones del Parlamento General de la Federación de las Islas Nullis y, por extensión, en las Cámaras de Representantes y en el Consejo del Estado. Toda resolución, acuerdo y otros documentos aprobados por el pleno de estos órganos también serán publicados en las lenguas oficiales.
 6. Existirá siempre un ejemplar actualizado de esta Constitución en cada lengua oficial fácilmente accesible.
 7. En el Gobierno de las Islas Nullis, las Agencias e Institutos Constitucionales y en el Tribunal Supremo, la lengua del trabajo será en castellano.
 
@@ -389,7 +389,7 @@ TRABAJO EN PROCESO
 	2.  Los ministros del Poder Ejecutivo de la Federación.
 	3.  Los Jefes y Directores de las Agencias e Instituciones Constitucionales.
 	4. Los Ministros del Tribunal Supremo de la Federación.
-	5.  Los Senadores y Representantes de la legislatura que concluye.
+	5.  Los Consejeros y Representantes de la legislatura que concluye.
 	6. Encargados del Poder Ejecutivo de las Autónomias de las Islas, así como miembros de los parlamentos locales.
 	7.  Miembros de las Fuerzas Armadas de la Federación, en rangos menores a Teniente.
 
