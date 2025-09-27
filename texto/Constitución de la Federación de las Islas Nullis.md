@@ -269,7 +269,7 @@ TRABAJO EN PROCESO
 
 1.  La Federación de las Islas Nullis declara que no tiene reclamo territorial y marítimo alguno, los territorios fuera de lo establecido en el  Artículo 30  no forman parte de la Federación y están fuera de su soberanía.
 2.  Así mismo se declara la renuncia a cualquier expansión del territorio por la fuerza de las armas, sin afectación a los derechos de soberanía previamente planteados.
-3.  La Federación renuncia a su derecho de declarar una guerra preventiva, las acciones militares solo podrán darse de manera defensiva. Las Fuerzas Armadas de la Federación solo podrán actuar fuera de la Federación en ejercicios militares o de manera activa en Misiones de Paz de las Naciones Unidas. Para el combate solo se autorizará la participación de Las Fuerzas Armadas de la Federación si se trata de una Resolución del Consejo de Seguridad de las Naciones Unidas.
+3.  La Federación renuncia a su derecho de declarar una guerra preventiva, las acciones militares solo podrán darse de manera defensiva. Las Fuerzas Armadas de la Federación solo podrán actuar fuera de la Federación en ejercicios militares o de manera activa en Misiones de Paz de las Naciones Unidas. Para el combate solo se autorizará la participación de Las Fuerzas Armadas de la Federación si se trata de una Resolución del Consejo de Seguridad de las Naciones Unidas, la Asamblea General de las Naciones Unidas o se trata de la fuerza militar mas cercana y óptima para prevenir una limipeza étnica o un genocidio.
 4.  En el territorio de la Federación de las Islas Nullis se prohíbe la construcción, almacenamiento, transporte y uso de armas biológicas, químicas y nucleares.
 
 **Artículo 32.**
