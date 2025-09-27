@@ -415,7 +415,7 @@ TRABAJO EN PROCESO
 
 2. Son funciones exclusivas del Consejo de la Federación.
 	1. La ratificación de los tratados e instrumentos internaciones firmados por el Poder Ejecutivo, de acuerdo con la Convención de Viena sobre el Derecho de los Tratados entre Estados y Organizaciones Internacionales o entre Organizaciones Internacionales.
- 2. Ratificar la declaración de guerra redactada por el ejecutivo.
+	 2. Ratificar la declaración de guerra redactada por el ejecutivo.
     
 
 **Artículo 58.**
