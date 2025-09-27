@@ -3,7 +3,7 @@
 
 _A todos aquellos que tengan acceso a este decreto.
 <br>
-Informo que por el mandato que nos da el Artículo II de nuestra Constitución, debemos ratificar esta Declaración, para poder incluirla en nuestro orden júridico.
+Informo que por el mandato que nos da el Artículo I de nuestra Constitución, debemos ratificar esta Declaración, para poder incluirla en nuestro orden júridico.
 <br>
 El Ministro de Relaciones Internacionales certifica, que se encuentra en los archivos de este Ministerio, copia certificada de la Declaración Universal de los Derechos Humanos, proporcionada por el Consejo de Derechos Humanos de las Naciones Unidas el 20 de abril de 2024.
 <br>
