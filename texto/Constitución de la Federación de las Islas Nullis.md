@@ -399,9 +399,26 @@ TRABAJO EN PROCESO
 	2.  Ministros de asociaciones religiosas.
 	3.  Los Miembros de las Fuerzas Armadas de la Federación podrán optar entre su separación del cargo o pasar a la reserva.
 
+**Artículo 57.**
+
+1. **El Consejo del Estado de la Federación** es la Cámara de representación territorial.  
+
+2. El Consejo de la Federación se compondrá de **treinta Consejeros**, tres por cada Isla Autónoma y cuatro en el caso de Costa Natura o la Isla Autónoma que sea designada como capital de la Federación. Habrá cinco Consejeros cuya asignación se hará en nombre de la Federación.  
+
+3. Los Consejeros por las Islas Autónomas serán elegidos en **elecciones democráticas cada cuatro años**.  
+
+4. Dos de estos Consejeros serán asignados a la **fuerza política más votada en su Isla Autónoma**. El tercer Consejero será asignado a la **segunda fuerza política más votada en la misma demarcación**.  
+
+5. Para la **Capital de la Federación** se seguirá el mismo proceso anterior, pero se asignará un **cuarto Consejero para la tercera fuerza política**.  
+
+6. Los Consejeros para la Federación se asignarán también por **elecciones generales**. Dos Consejeros serán asignados a la **fuerza política más votada en el conjunto de la Federación**, uno a la segunda fuerza y otro a la tercera.  
+
+7. Las **condiciones de elegibilidad personal** para ser Consejero son las mismas que para ser Representante.  
+
+
   
 
-**Artículo 57.**
+**Artículo 58..**
 
 1.  Son funciones exclusivas de la Cámara de Representantes.
 
@@ -418,7 +435,7 @@ TRABAJO EN PROCESO
 	 2. Ratificar la declaración de guerra redactada por el ejecutivo.
     
 
-**Artículo 58.**
+**Artículo 59.**
 
 1. Los Representantes y Consejeros de de la Federación de las Islas Nullis gozarán de un fuero especial, donde no podrán ser juzgados por ningún crimen, exceptuando los de lesa humanidad, durante su periodo siendo miembros del Parlamento General de la Federación de las Islas Nullis.
 2. Los Representantes y Consejeros de la Federación tomarán posesión de sus actas al acreditar ante los servicios general de sus cámara su acta de mayoría emitida por la Agencia Constitucional Electoral y después de jurar en la sesión constituyente de la legislatura con el siguiente juramento: «Juro, por mi honor, guardar y hacer guardar la Constitución de las Federación de las Islas Nullis y las leyes que de ella emanen, respetar los derechos humanos, la autonomía de las Islas y respeto al orden democrático»
