@@ -402,7 +402,7 @@ TRABAJO EN PROCESO
 
 **Artículo 57.**
 
-1. **El Consejo del Estado de la Federación** es la Cámara de representación territorial.  
+1. **El Consejo de la Federación** es la Cámara de representación territorial.  
 
 2. El Consejo de la Federación se compondrá de **treinta Consejeros**, tres por cada Isla Autónoma y cuatro en el caso de Costa Natura o la Isla Autónoma que sea designada como capital de la Federación. Habrá cinco Consejeros cuya asignación se hará en nombre de la Federación.  
 
