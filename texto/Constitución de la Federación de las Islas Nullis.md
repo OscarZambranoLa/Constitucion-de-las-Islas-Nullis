@@ -404,7 +404,7 @@ TRABAJO EN PROCESO
 
 1. **El Consejo de la Federación** es la Cámara de representación territorial.  
 
-2. El Consejo de la Federación se compondrá de **treinta Consejeros**, tres por cada Isla Autónoma y cuatro en el caso de Costa Natura o la Isla Autónoma que sea designada como capital de la Federación. Habrá cinco Consejeros cuya asignación se hará en nombre de la Federación.  
+2. El Consejo de la Federación se compondrá de **treinta Consejeros**, tres por cada Isla Autónoma, exceptuando la capital, y cuatro en el caso de Costa Natura o la Isla Autónoma que sea designada como capital de la Federación. Habrá cinco Consejeros cuya asignación se hará en nombre de la Federación.  
 
 3. Los Consejeros por las Islas Autónomas serán elegidos en **elecciones democráticas cada cuatro años**.  
 
