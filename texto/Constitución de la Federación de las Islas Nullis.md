@@ -378,13 +378,18 @@ TRABAJO EN PROCESO
 
 **Artículo 56.**
 
-1.  La Camara de los Representantes es la cámara de representación popular, con una composición de 100 Representantes, elegidos por sufragio universal, secreto, directo y libre.
-2.  La distribución de los Representantes se realizará de manera proporcional a la población de cada distrito electoral, garantizando la representación equitativa de todos los habitantes de las Islas Nullis.
+1. La Cámara de Representantes es la Cámara de representación popular.
 
-3.  Será un Representante por cada distrito electoral, dando así 100 distritos electorales en los que será dividida la Federación. La ley dará facultades al organismo electoral constitucional para expedir el decreto de división distrital, de acuerdo al apartado a de este artículo.
+2. La Cámara de Representantes se compondrá de noventa miembros electos para un periodo de cuatro años.
 
-4.  La Cámara de los Representantes es elegida para cinco años, terminando sus funciones exactamente cinco años después de su elección o cuando se realice su disolución.
-5.  Son elegibles para ser Representantes todos los ciudadanos de la Federación que estén en pleno uso de sus derechos políticos, excepto:
+3. Sesenta Representantes serán electos en sesenta distritos uninominales de población aproximada, mediante sufragio universal, libre, directo y secreto. La ley dará facultades a la Agencia Electoral Constitucional para expedir el decreto de división distrital, de acuerdo al apartado a de este artículo.
+
+4. Treinta Representantes serán asignados por la Agencia Electoral Constitucional en función de los resultados generales de la votación nacional. Para tal efecto, los partidos políticos deberán presentar listas nominales ante laAgencia Electoral Constitucional.
+
+5. La Agencia asignará dichos escaños conforme a la siguiente regla: diez Representantes a la segunda fuerza política, ocho a la tercera, cinco a la primera, tres a la cuarta, dos a la quinta, uno a la sexta y uno a la séptima.
+   
+6. La Cámara de los Representantes es elegida para cuatro años, terminando sus funciones exactamente cuatro años después de su elección o cuando se realice su disolución.
+7.  Son elegibles para ser Representantes todos los ciudadanos de la Federación que estén en pleno uso de sus derechos políticos, excepto:
 
 	1.  El Presidente o Presidenta de la Federación.
 	2.  Los ministros del Poder Ejecutivo de la Federación.
@@ -394,7 +399,7 @@ TRABAJO EN PROCESO
 	6. Encargados del Poder Ejecutivo de las Autónomias de las Islas, así como miembros de los parlamentos locales.
 	7.  Miembros de las Fuerzas Armadas de la Federación, en rangos menores a Teniente.
 
-6.  En caso de querer ser elegidos como Representantes deberán serpararse de su cargo con un año de anticipación mínimo antes de la elección. Se aplícará un tiempo de separación del cargo a dos años para el caso de:
+8.  En caso de querer ser elegidos como Representantes deberán serpararse de su cargo con un año de anticipación mínimo antes de la elección. Se aplícará un tiempo de separación del cargo a dos años para el caso de:
 
 	1.  Miembros de las Fuerzas Armadas de la Federación, en rangos iguales o mayores a Teniente.
 	2.  Ministros de asociaciones religiosas.
