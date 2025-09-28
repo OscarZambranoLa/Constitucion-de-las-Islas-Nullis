@@ -412,7 +412,7 @@ TRABAJO EN PROCESO
 
 5. Para la **Capital de la Federación** se seguirá el mismo proceso anterior, pero se asignará un **cuarto Consejero para la tercera fuerza política**.  
 
-6. Los Consejeros para la Federación se asignarán también por **elecciones generales**. Dos Consejeros serán asignados a la **fuerza política más votada en el conjunto de la Federación**, uno a la segunda fuerza y otro a la tercera.  
+6. Los Consejeros para la Federación se asignarán también por **elecciones generales**. Dos Consejeros serán asignados a la **fuerza política más votada en el conjunto de la Federación**, uno a la segunda fuerza y otro a la tercera y el último para la cuarta. 
 
 7. Las **condiciones de elegibilidad personal** para ser Consejero son las mismas que para ser Representante.  
 
