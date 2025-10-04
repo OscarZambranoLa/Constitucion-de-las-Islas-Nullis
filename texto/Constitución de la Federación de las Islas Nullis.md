@@ -253,6 +253,22 @@ TRABAJO EN PROCESO
     
 8.  Las personas mayores de edad tendrán derecho a poseer un arma de fuego de bajo calibre, bajo la tutela, regulación y supervisión del Ministerio de Defensa.
 
+
+**Artículo 18**  
+1.  Toda persona tiene derecho a la privacidad, a la intimidad de su vida privada y a la inviolabilidad de su domicilio, necesarios para el cultivo de su madurez física, intelectual, emocional y sexual, así como para alcanzar un alto grado de autonomía personal.
+    
+2.  Ninguna autoridad podrá penetrar en el domicilio de una persona ni realizar inspecciones o registros sin su consentimiento expreso o sin orden judicial fundada y motivada, salvo en casos de flagrante delito o peligro inminente.
+    
+3.  Las personas podrán modular el ámbito de protección de este derecho, otorgando a particulares o al Estado su expreso consentimiento, o mediante otras formas de hecho equivalentes.
+    
+4.  La autoridad judicial competente podrá determinar, de manera excepcional, los límites y supuestos en los que el Ministerio Público Federal o Autonómico podrá establecer actuaciones en la esfera privada.
+    
+5.  Las personas políticamente expuestas, por voluntad propia, deberán aceptar que su ámbito de protección constitucional puede y será más limitado.
+    
+6.  La libertad de prensa, en el caso de las personas políticas, deberá ejercerse mediante la emisión de datos verdaderos, sin malicia probada ni negligencia periodística patente.
+    
+7.  Estas restricciones buscan el amplio control ciudadano sobre las responsabilidades públicas.
+
 ## **Capítulo II. De las consecuencias y reparaciones de la amenaza al quebrantamiento de Derechos Humanos.**
 
 **Artículo 25.**
