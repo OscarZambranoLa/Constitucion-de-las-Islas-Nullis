@@ -234,7 +234,7 @@ TRABAJO EN PROCESO
 3. El Estado no otorga ni reconoce ningún título nobiliario.
 
 
-**Artículo 16**  
+**Artículo 17**  
 1.  Toda persona tiene derecho a la propiedad en pertenencias, a la acumulación de moneda nacional o extranjera, así como a la posesión de activos digitales, propiedad intelectual, tokens y títulos de crédito.  
     El libre comercio dentro del Territorio de la Federación será garantizado por el Estado conforme a la ley.
     
