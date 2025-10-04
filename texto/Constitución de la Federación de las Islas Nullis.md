@@ -233,6 +233,26 @@ TRABAJO EN PROCESO
 2. El Estado promoverá la igualdad en los ámbitos privados, así como la erradicación de la discriminación.  
 3. El Estado no otorga ni reconoce ningún título nobiliario.
 
+
+**Artículo 16**  
+1.  Toda persona tiene derecho a la propiedad en pertenencias, a la acumulación de moneda nacional o extranjera, así como a la posesión de activos digitales, propiedad intelectual, tokens y títulos de crédito.  
+    El libre comercio dentro del Territorio de la Federación será garantizado por el Estado conforme a la ley.
+    
+2.  El Estado no podrá expropiar lo ganado legítimamente.  
+    La declaración de ilegitimidad de una propiedad sólo podrá hacerse mediante resolución de un juez competente, en el marco de un juicio justo.
+    
+3.  Las tierras son esencialmente propiedad de la Nación, la cual podrá ceder su uso o dominio a particulares conforme a la ley.
+    
+4.  Los particulares extranjeros no podrán adquirir tierras en las costas, ni en lugares declarados Patrimonio de las Islas, Patrimonio Mundial o zonas de seguridad nacional, salvo que se trate de asociaciones de capital mayoritariamente Nullien.
+
+6. La Nación se reserva el derecho a la declaración de uso de suelo conforme a la ley.
+    
+7.  Los animales en la Federación son reconocidos como seres sintientes y su bienestar constituye un interés general de la Nación.  
+    Los animales de compañía deberán ser cuidados por sus dueños conforme a lo establecido por las Autonomías.  
+    Los animales de consumo son propiedad legítima, pero su sacrificio deberá realizarse de la manera más indolora disponible.
+    
+8.  Las personas mayores de edad tendrán derecho a poseer un arma de fuego de bajo calibre, bajo la tutela, regulación y supervisión del Ministerio de Defensa.
+
 ## **Capítulo II. De las consecuencias y reparaciones de la amenaza al quebrantamiento de Derechos Humanos.**
 
 **Artículo 25.**
