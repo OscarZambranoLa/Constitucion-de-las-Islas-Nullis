@@ -307,7 +307,9 @@ TRABAJO EN PROCESO
 2.  Así mismo se declara la renuncia a cualquier expansión del territorio por la fuerza de las armas, sin afectación a los derechos de soberanía previamente planteados.
 3.  La Federación renuncia a su derecho de declarar una guerra preventiva, las acciones militares solo podrán darse de manera defensiva. Las Fuerzas Armadas de la Federación solo podrán actuar fuera de la Federación en ejercicios militares o de manera activa en Misiones de Paz de las Naciones Unidas. Para el combate solo se autorizará la participación de Las Fuerzas Armadas de la Federación si se trata de una Resolución del Consejo de Seguridad de las Naciones Unidas, la Asamblea General de las Naciones Unidas o se trata de la fuerza militar más cercana y óptima para prevenir una limipeza étnica o un genocidio.
 4.  La autorización final de combate internacional recae en el Primer Ministro y es su responsabilidad política.
-5.  En el territorio de la Federación de las Islas Nullis se prohíbe la construcción, almacenamiento, transporte y uso de armas biológicas, químicas y nucleares.
+5.  Las Fuerzas Armadas de la Federación no pueden ejercer actividades de seguridad pública sin un estado de emergencia declarado.
+6.  La lealtad de las Fuerzas Armadas de la Federación está con la Constitución. Ningún mando militar puede ordenar a las autoridades civiles y democráticas.
+7.  En el territorio de la Federación de las Islas Nullis se prohíbe la construcción, almacenamiento, transporte y uso de armas biológicas, químicas y nucleares.
 
 **Artículo 32.**
 
