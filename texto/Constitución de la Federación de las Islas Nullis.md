@@ -462,17 +462,16 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 
 1.  Son funciones exclusivas de la Cámara de Representantes.
 
-	1.  Desigar al Presidente de la Federación de las Islas Nullis.
-	2.  Nombrar al Primer Ministro de la Federación de las Islas Nullis para que ejerza el Poder Ejecutivo de la Federación de acuerdo con esta Constitución.
-	3.  Ratificar a los Ministros de Estado propuestos por el Primer Ministro de la Federación.
-	4.  Aprobar los presupuestos generales de la Federación.
-	5.  Aprobar los Régimenes Interiores de las Autonomías de las Islas.
-	6.  Ratificar el nombramiento de los Jefes y Directores de las Agencias e Instituciones Constitucionales, así como a los Ministros del Tribunal Supremo de la Federación propuestos por el Primer Ministro de la Federación.
+	1.  Nombrar al Primer Ministro de la Federación de las Islas Nullis para que ejerza el Poder Ejecutivo de la Federación de acuerdo con esta Constitución.
+	3.  Aprobar los presupuestos generales de la Federación.
+	4.  Aprobar los Régimenes Interiores de las Autonomías de las Islas.
+	5.  Ratificar el nombramiento de los Jefes y Directores de las Agencias e Instituciones Constitucionales, así como a los Ministros del Tribunal Supremo de la Federación propuestos por el Primer Ministro de la Federación.
 
 
 2. Son funciones exclusivas del Consejo de la Federación.
-	1. La ratificación de los tratados e instrumentos internaciones firmados por el Poder Ejecutivo, de acuerdo con la Convención de Viena sobre el Derecho de los Tratados entre Estados y Organizaciones Internacionales o entre Organizaciones Internacionales.
-	 2. Ratificar la declaración de guerra redactada por el ejecutivo.
+    1.  Desigar al Presidente de la Federación de las Islas Nullis.
+	2. La ratificación de los tratados e instrumentos internaciones firmados por el Poder Ejecutivo, de acuerdo con la Convención de Viena sobre el Derecho de los Tratados entre Estados y Organizaciones Internacionales o entre Organizaciones Internacionales.
+	 3. Ratificar la declaración de guerra redactada por el ejecutivo.
     
 
 **Artículo 59.**
