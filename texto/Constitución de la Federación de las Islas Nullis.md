@@ -483,7 +483,7 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 
 **Artículo 65**
 
-1. El Presidente de la Federación será elegido por el Consejo del Estado por un periodo de 4 años, reelegible por una vez única.
+1. El Presidente de la Federación será elegido por el Consejo de la Federación por un periodo de 4 años, reelegible por una vez única.
 2. Su función será la máxima representación exterior de la Federación, la acreditación de embajadores y la firma de leyes, reglamentos y actos internacionales ratificados por el Consejo.
 3. Es el Comandante supremo de las Fuerzas Armadas.
 4. De los actos políticos del presidente, será responsable el Primer Ministro.
