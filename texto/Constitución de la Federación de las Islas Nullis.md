@@ -497,7 +497,12 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 3. La Cámara de Representantes, tras su instalación, llevará a cabo un proceso de investidura. Cada fuerza política o coalición presentará al Presidente de la Federación, el nombre del candidato a Primer Ministro. Cada candidatura deberá estar firmada por al menos 10 Representantes, dichos representantes solo pueden firmar una propuesta por legislatura.
 El Presidente de la federación enviará la propuesta más respaldada con firmas a la Cámara de Representantes.
 Habrá una sesión donde todas las fuerzas políticas serán escuchadas y la candidatura podrá responder.
-4.El Gobierno queda investido si logra mayoría absoluta.
+4.El Primer Ministiro y su gobierno queda investido si logra mayoría absoluta.
+5.El Primer Ministro puede ser removido mediante una moción de censura presentada por una fuerza política con el respaldo de al menos diez Representantes.
+La propuesta de moción deberá incluir un candidato alternativo a Primer Ministro y su gabinete.
+La moción se presentará al Presidente de la Cámara de Representantes, quien la hará pública. El debate y la votación se realizarán invariablemente cinco días después de su presentación.
+Si la moción es aprobada por mayoría absoluta, el candidato propuesto será investido inmediatamente como nuevo Primer Ministro.
+Si la moción fracasa, la fuerza política proponente no podrá presentar otra durante el mismo año legislativo.
 
 ## Capítulo V. De las obligaciones del estado y las Instituciones Constitucionales.
 
