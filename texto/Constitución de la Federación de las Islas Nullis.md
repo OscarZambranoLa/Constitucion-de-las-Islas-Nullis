@@ -52,7 +52,7 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 
 **Artículo 2.**
 
-1.  Todo individuo tiene derecho a la libertad y seguridad personales.
+1.  Todo persona tiene derecho a la libertad y seguridad personales.
 2.  Nadie será sometido a torturas ni a tratos o penas crueles, inhumanos o degradantes.
 3.  Las penas que impliquen un casitigo corporal quedan prohibidas.
 4. En la Federación no existe la pena de muerte.
@@ -61,7 +61,7 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 
 **Artículo 3.**
 
-1.  Todo individuo tiene derecho a la personalidad júridica y no podrá ser despojado de ella, únicamente se podran restringir ciertos derechos bajo los linemientos indicados en esta Constitución.
+1.  Todo persona tiene derecho a la personalidad júridica y no podrá ser despojado de ella, únicamente se podran restringir ciertos derechos bajo los linemientos indicados en esta Constitución.
 2.  Toda persona tiene derecho a un jucio justo y de garantías, de conformidad con lo establecido en esta constitución, la Declaración Universal de los Derechos Humanos y el Pacto Internacional de Derechos Civiles y Políticos de las Naciones Unidas, así como otros tratados internacionales de los que la Federación forme parte.
 3.  Los detalles, salvaguardas y plazos razonables para salvaguardar este derecho seán regulados por la ley.
 
@@ -192,11 +192,7 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 
 	a.  El nuevo lugar de trabajo se encuentra a más de 15 kilométros del 	previo lugar de trabajo. Para poder realizar una nueva reubicación el trabajador tiene derecho a permanecer un año en el lugar de trabajo.
 
-  
-
-TRABAJO EN PROCESO
-
-  
+    
 
 **Artículo 13.**
 
@@ -351,9 +347,9 @@ TRABAJO EN PROCESO
 
 1. La Nacionalidad Nullien se adquiere por nacimiento o naturalización.
   1. Son Nulliens por nacimiento:
-	    1. Los nacidos en el territorio de la Federación, islas 				subyacentes y mar territorial de la Nación.
-	    2. Los nacidos en el extranjero, de progenitor Nullien.
-	    3. Los nacidos a bordo de aeronaves, embarcaciones y naves espaciales de bandera nacional.
+	    1. Los nacidos en el territorio de la Federación, islas subyacentes y mar territorial de la Nación.
+	    3. Los nacidos en el extranjero, de progenitor Nullien.
+	    4. Los nacidos a bordo de aeronaves, embarcaciones y naves espaciales de bandera nacional.
 	     4. Los nacidos en las embajadas de la Federación.
   2. Son Nulliens por naturalización.
 	    1. Los extranjeros que opten por la Nacionalidad Nullien y cumplan con alguno de los siguientes requisitos.
@@ -484,7 +480,45 @@ TRABAJO EN PROCESO
 1. Los Representantes y Consejeros de de la Federación de las Islas Nullis gozarán de un fuero especial, donde no podrán ser juzgados por ningún crimen, exceptuando los de lesa humanidad, durante su periodo siendo miembros del Parlamento General de la Federación de las Islas Nullis.
 2. Los Representantes y Consejeros de la Federación tomarán posesión de sus actas al acreditar ante los servicios general de sus cámara su acta de mayoría emitida por la Agencia Constitucional Electoral y después de jurar en la sesión constituyente de la legislatura con el siguiente juramento: «Juro, por mi honor, guardar y hacer guardar la Constitución de las Federación de las Islas Nullis y las leyes que de ella emanen, respetar los derechos humanos, la autonomía de las Islas y respeto al orden democrático»
 
+## Capítulo III. Del Poder Ejecutivo. 
 
+**Artículo 65**
+
+1. El Presidente de la Federación será elegido por el Consejo del Estado por un periodo de 4 años, reelegible por una vez única.
+2. Su función será la máxima representación exterior de la Federación, la acreditación de embajadores y la firma de leyes, reglamentos y actos internacionales ratificados por el Consejo.
+3. Es el Comandante supremo de las Fuerzas Armadas.
+4. De los actos políticos del presidente, será responsable el Primer Ministro.
+5. El presidente prestará juramento ante el Consejo de la Federación con la fórmula «Juro, por mi honor, guardar y hacer guardar la Constitución de las Federación de las Islas Nullis y las leyes que de ella emanen, respetar los derechos humanos, la autonomía de las Islas y respeto al orden democrático. Acepto este poder para ejercer las funciones constitucionales asignadas a mi persona. Si fallo en este deber, que la Nación y la Justicia me lo demanden».
+
+
+
+**Artículo 66**
+1.El Primer Ministro será elegido por mayoría absoluta en la Cámara de Representantes.
+2. La existencia del Gobierno de la Federación y el gabinete está basada en el primer ministro.
+3. La Cámara de Representantes, tras su instalación, llevará a cabo un proceso de investidura. Cada fuerza política o coalición presentará al Presidente de la Federación, el nombre del candidato a Primer Ministro. Cada candidatura deberá estar firmada por al menos 10 Representantes, dichos representantes solo pueden firmar una propuesta por legislatura.
+El Presidente de la federación enviará la propuesta más respaldada con firmas a la Cámara de Representantes.
+Habrá una sesión donde todas las fuerzas políticas serán escuchadas y la candidatura podrá responder.
+4.El Gobierno queda investido si logra mayoría absoluta.
+
+## Capítulo V. De las obligaciones del estado y las Instituciones Constitucionales.
+
+**Artículo 70.**
+
+1. La Federación contará con un banco Central, cuya misión será mantener el poder adquisitivo de la moneda nacional y propiciar un sano desarrollo de los sistemas de pago.
+2. El Banco Central emitirá la moneda nacional de acuerdo a sus cálculos profesionales, económicos y financieros. La emisión de moneda es autónoma y responsabilidad de la Junta Central del Banco de la Federación.
+3. Ninguna autoridad podrá ordenar al Banco Central dar financiamiento al gobierno central o autonómicos, ni a empresas públicas, mixtas o privadas.
+4. El Banco Central podrá acumular libremente moneda extranjera y activos digitales.
+5. Los Sistemas de Pago de la Federación buscarán ser universales, interbancarios, accesibles y seguros.
+6. El Banco Central tiene la obligación de establecer un sistema de pago, estandarizado para montos de operación diaria empresarial o personal.
+7. La Ley regulará la organización del Banco Central, siguiendo las directrices constitucionales.
+8. La Junta Central del Banco es la Máxima Autoridad del Banco. Los Miembros son propuestos por el primer ministro y ratificados por el Consejo de la Federación, su periodo no podrá ser mayor a cinco años. El Consejo de la Federación podrá destituir al miembros de la junta por causas judiciales. 
+9. La Junta, por mayoría simple, designará un Director del Banco Central. Los miembros de la Junta serán denominados Subdirectores y podrán tener asignada una cartera asignada por la Junta Central.
+
+
+**Artículo 71.**
+1. La Federación buscará comerciar libremente con el mundo. La Federación solo ratificará tratados de libre comercio con estados del mundo respetuosos de los derechos humanos y de la paz internacional.
+2. Los aranceles buscarán la protección de industrias clave y de seguridad. La Federación renuncia a la política de sustitución de importaciones.
+3. La ratificación de los Tratados de Comercio es función del Consejo de la Federación.
 
 
 ********
