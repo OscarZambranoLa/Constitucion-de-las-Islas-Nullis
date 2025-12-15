@@ -8,7 +8,7 @@
 
 ## Preámbulo
 
-Nosotros, los individuos y los pueblos de las Islas Nullis, unidos en Congreso Constituyente y representados por nuestros plenipotenciarios democráticamente electos,
+Nosotros, las personas y los pueblos de las Islas Nullis, unidos en Congreso Constituyente y representados por nuestros plenipotenciarios democráticamente electos,
 
 Convencidos de que los derechos humanos son el camino trazado para la creación de una sociedad digna para todos, como humanidad que nos enorgullecemos de ser,
 
@@ -247,7 +247,7 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
     Los animales de compañía deberán ser cuidados por sus dueños conforme a lo establecido por las Autonomías.  
     Los animales de consumo son propiedad legítima, pero su sacrificio deberá realizarse de la manera más indolora disponible.
     
-8.  Las personas mayores de edad tendrán derecho a poseer un arma de fuego de bajo calibre, bajo la tutela, regulación y supervisión del Ministerio de Defensa.
+8.  Las personas mayores de edad tendrán derecho a poseer un arma de fuego de bajo calibre, bajo la tutela, regulación y supervisión del Ministerio del Seguridad.
 
 
 **Artículo 18**  
@@ -264,6 +264,51 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 6.  La libertad de prensa, en el caso de las personas políticas, deberá ejercerse mediante la emisión de datos verdaderos, sin malicia probada ni negligencia periodística patente.
     
 7.  Estas restricciones buscan el amplio control ciudadano sobre las responsabilidades públicas.
+
+**Artículo 19**
+1. ​Toda persona tiene derecho al disfrute de las artes y a los beneficios del progreso científico.
+2. La Nación promoverá una inversión constante en ciencias exactas, sociales y humanidades. La Nación contará con un sistema de apoyo a la creación de contenido digital e impreso de divulgación científica y de las artes.
+3. ​La Federación establecerá, en colaboración con las Autonomías, museos nacionales sobre los diversos hechos o tradiciones locales de las Islas o de la Federación en su conjunto. Cada Isla Autónoma tendrá al menos un Museo Nacional.
+4. ​La Federación tendrá un sistema federal de Bibliotecas. Toda persona tendrá derecho a su uso y al préstamo bibliotecario. Las Bibliotecas contarán con acceso a Internet garantizado de acuerdo con esta Constitución.
+5. A ninguna persona se le negará el ingreso a las bibliotecas del sistema ferderal y de los sistemas educativos, salvo exepciones contempladas en la ley.
+6. ​La Nación apoyará a las Artes, sin distinción de origen, y buscará su integración en la educación formal, en centros comunitarios, así como en centros especializados.
+7. Ningún tipo de arte será censurado, exceptuando los discursos de odio contra los derechos humanos,
+8. ​La Nación promoverá el deporte y el estilo de vida en movimiento.
+9. ​La Nación dotará a los centros de población con equipamiento para el deporte personal y de equipos.
+10. ​La Federación manejará el centro especializado del deporte olímpico Nullis.
+11. ​La Nación adopta los principios de la Carta Olímpica.
+12. La Nación contará con equipos nacionales de deportes electrónicos.
+13. ​Los deportistas en competiciones internacionales y tienen derecho a usar la bandera nacional en sus uniformes.
+14. Toda persona tiene derecho a portar la bandera nacional en sus hombros con el debido respeto.
+
+**Artículo 20**
+ 1. ​Toda persona tiene derecho a la salud física y emocional.
+​La Federación financiará, mediante contribuciones razonables universales, ingresos fiscales y colaboraciones con el sector privado, un sistema de salud que atienda a la población en general.
+ 2. ​El sistema de salud será preventivo, curativo y, en caso de alcanzarse los límites científicos para la cura, ofrecerá cuidados paliativos socialmente acompañados.
+ 3. Las Autonomías podrán elegir entre formar un sistema de salud propio o ceder las competencias al Sistema Nacional.
+ 4. ​Todo paciente doliente y desahuciado, después del acompañamiento familiar y del Estado, tiene derecho a decidir el fin de su vida y con ello sus dolores.
+
+
+**Artículo 21**
+1. Toda persona tiene derecho al sano crecimiento y desarrollo.
+2. ​Las infancias gozan de los derechos humanos de esta constitución, los instrumentos internacionales ratificados y las cláusulas específicas para ellos, así como de la aplicación de Interés Superior de la Niñez.
+3. ​El Estado prestará especial atención a la alimentación de las infancias.
+4. ​Los padres, o en su caso tutores, son los principales garantes del bienestar y desarrollo de las infancias. El Estado les otorga la orden de custodia.
+5. ​El Estado es el último garante del bienestar y se reserva la potestad de retirar la orden de custodia de infantes bajo causas justificadas y con un juicio justo.
+6. ​En caso de emergencia, el Estado tomará la orden de custodia de manera provisional con la autorización del Ministro Público.
+7. ​Todo recién nacido será registrado de la manera más pronta posible después del nacimiento.
+8. ​El Estado otorgará a las infancias las vacunas necesarias para la conservación de su salud. Es un derecho de las infancias y una obligación de padres y tutores.
+9. El Estado otorgará salud gratuita a las infancias.
+10. ​Las infancias, cuyo tutor sea el Estado, gozan de los mismos derechos de las infancias.
+11. ​La Ley fijará un instituto que permita una adopción adecuada, con humanidad, cuidados y cariños suficientes.
+12. ​Los niños que no sean adoptados, tendrán en el instituto las herramientas y el apoyo psicológico, moral y financiero para concluir sus estudios, construir un patrimonio y desarrollar una sana personalidad.
+13. ​Los Padres tienen derecho a nombrar a sus hijos como lo deseen, con excepciones justificadas, y a escoger el orden de sus apellidos.
+14. Los Padres tienen derecho a criar a sus hijos bajo sus creencias y valores morales, con las salvaguardas constitucionales.
+15. ​Los castigos corporales a los menores estan prohibidos, los  castigos corporales continuos son violencia y constituyen un delito.
+16. ​La voz de las infancias será escuchada por las Instituciones de gobierno y procesada mediante instrumentos adecuados y designados por la ley y con acompañamiento al infante. Todo infante tiene derecho a una respuesta por parte del Estado.
+17. ​El Consejo del Estado declarará un día anual de reflexión sobre los derechos de las infancias. Ese día, los Parlamentarios cederán su escaño durante ese día para celebrar un Parlamento de las Infancias. Con acompañamiento, los niños redactarán un memorándum para las autoridades del Estado sobre sus pensamientos en la situación del país, el contexto internacional y sus derechos.
+18. ​El Presidente, El Primer Ministro, los Presidentes de las Cámaras y de Tribunal Supremo firmarán solemnemente de recibido y leerán el texto frente a sus respectivos órganos colegiados.
+
 
 ## **Capítulo II. De las consecuencias y reparaciones de la amenaza al quebrantamiento de Derechos Humanos.**
 
