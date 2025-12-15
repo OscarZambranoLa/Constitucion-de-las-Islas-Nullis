@@ -111,6 +111,7 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 
 	6.  La educación de ninguna manera incluirá incitación a los dircursos de odio, racismo o discriminación, sin embargo deberá enseñarse a los estudiantes los acontecimientos históricos de la humanidad de manera científica e históricamente responsable, fijando como meta la reflexión moral y la prevención de actitudes discriminatorias o xénofobas.
 	7.  Las escuelas religiosas serán permitidas y apoyadas. Las mismas deberán apegarse a los mismos criterios de prohibición de discriminación.
+ 8.  Las escuelas tendrán un horario coherente para el sueño, salud y nutrición de las infancias. Los tutores fijarán, de manera responsble, horarios para las tareas escolares realizadas en el hogar. Después de ello, las infancias tienen derecho a la desconexión digital de asuntos escolares.
 
   
 
