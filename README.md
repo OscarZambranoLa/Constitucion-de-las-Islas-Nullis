@@ -31,8 +31,9 @@ Proyecto de creación de una Constitución para un país ficticio: **La Federaci
 | Región Autónoma de Jisalinse  | 780,000   ||
 | Isla Autónoma de Marinasial | 650,000   |[Fuero del Pueblo de Marinasial](https://github.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/blob/main/leyes/estatutos-autonomicos/fuero-del-pueblo-de-marinasial/Fuero%20del%20Pueblo%20de%20Marinasial.md)|
 | Región Autónoma de Sinjoya    | 550,000   ||
-| Región Autónoma de Trualapie  | 480,000   ||
+| Isla Autónoma de Trualapie  | 480,000   |[ Constitución Complementaria de Trualapie](https://github.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/blob/main/leyes/estatutos-autonomicos/constitucion%20-complementaria-trualapie/Constituci%C3%B3n%20complmentaria%20de%20Trualapie.md)|
 | Región Autónoma de Valacare   | 490,000   ||
+
 
 
 
