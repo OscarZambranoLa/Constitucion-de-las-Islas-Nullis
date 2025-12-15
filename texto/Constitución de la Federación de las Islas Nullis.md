@@ -280,6 +280,7 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 12. La Nación contará con equipos nacionales de deportes electrónicos.
 13. ​Los deportistas en competiciones internacionales y tienen derecho a usar la bandera nacional en sus uniformes.
 14. Toda persona tiene derecho a portar la bandera nacional en sus hombros con el debido respeto.
+15. El uso de la bandera nacional de manera personal no es incompatible con el uso de las banderas de las islas y sus subdivisones.
 
 **Artículo 20**
  1. ​Toda persona tiene derecho a la salud física y emocional.
