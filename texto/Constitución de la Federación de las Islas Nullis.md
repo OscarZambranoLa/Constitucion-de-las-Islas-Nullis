@@ -230,25 +230,31 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 2. El Estado promoverá la igualdad en los ámbitos privados, así como la erradicación de la discriminación.  
 3. El Estado no otorga ni reconoce ningún título nobiliario.
 
+**Artículo 17**
 
-**Artículo 17**  
-1.  Toda persona tiene derecho a la propiedad en pertenencias, a la acumulación de moneda nacional o extranjera, así como a la posesión de activos digitales, propiedad intelectual, tokens y títulos de crédito.  
-    El libre comercio dentro del Territorio de la Federación será garantizado por el Estado conforme a la ley.
-    
-2.  El Estado no podrá expropiar lo ganado legítimamente.  
-    La declaración de ilegitimidad de una propiedad sólo podrá hacerse mediante resolución de un juez competente, en el marco de un juicio justo.
-    
-3.  Las tierras son esencialmente propiedad de la Nación, la cual podrá ceder su uso o dominio a particulares conforme a la ley.
-    
-4.  Los particulares extranjeros no podrán adquirir tierras en las costas, ni en lugares declarados Patrimonio de las Islas, Patrimonio Mundial o zonas de seguridad nacional, salvo que se trate de asociaciones de capital mayoritariamente Nullien.
+1. Toda persona tiene derecho a la propiedad en pertenencias, a la acumulación de moneda nacional o extranjera, así como a la posesión de activos digitales, propiedad intelectual, tokens y títulos de crédito. El libre comercio dentro del Territorio de la Federación será garantizado por el Estado conforme a la ley.
 
-6. La Nación se reserva el derecho a la declaración de uso de suelo conforme a la ley.
-    
-7.  Los animales en la Federación son reconocidos como seres sintientes y su bienestar constituye un interés general de la Nación.  
-    Los animales de compañía deberán ser cuidados por sus dueños conforme a lo establecido por las Autonomías.  
-    Los animales de consumo son propiedad legítima, pero su sacrificio deberá realizarse de la manera más indolora disponible.
-    
-8.  Las personas mayores de edad tendrán derecho a poseer un arma de fuego de bajo calibre, bajo la tutela, regulación y supervisión del Ministerio del Seguridad.
+2. Toda persona tiene derecho a contar con al menos una cuenta bancaria a su nombre, con acceso pleno a los beneficios del sistema nacional de pagos y a la protección del secreto bancario, en los términos que establezca la ley.
+
+3. La ley regulará y promoverá los espacios de inversión, ahorro y planificación financiera, con especial atención a la formación financiera desde la infancia, garantizando principios de inclusión, prudencia y sostenibilidad.
+
+4. La ley promoverá la libre competencia entre las instituciones financieras y las plataformas de servicios financieros, asegurando condiciones de acceso equitativas, transparencia y protección de las personas usuarias.
+
+5. La Federación otorgará las facilidades necesarias para que los pagos de nómina, prestaciones laborales y transferencias públicas, en moneda nacional, se realicen preferentemente a través del sistema nacional de pagos.
+
+6. Todas las personas estarán obligadas a someterse a las regulaciones en materia de prevención del lavado de dinero y del financiamiento al terrorismo, conforme a la ley. Dichas regulaciones se aplicarán con base en lo dispuesto por la legislación vigente, los reglamentos del Banco Central y la normativa emitida por las autoridades financieras competentes.
+
+7. Las instituciones financieras deberán cumplir y hacer cumplir las disposiciones de prevención de ilícitos conforme a las mejores prácticas del sistema financiero internacional, respetando en todo momento los derechos fundamentales de las personas.
+
+8. El Estado no podrá expropiar lo ganado legítimamente. La declaración de ilegitimidad de una propiedad sólo podrá hacerse mediante resolución de un juez competente, en el marco de un juicio justo.
+
+9. Las tierras son esencialmente propiedad de la Nación, la cual podrá ceder su uso o dominio a particulares conforme a la ley. La Nación se reserva el derecho a la declaración de uso de suelo.
+
+10. Los particulares extranjeros no podrán adquirir tierras en las costas, ni en lugares declarados Patrimonio de las Islas, Patrimonio Mundial o zonas de seguridad nacional, salvo que se trate de asociaciones de capital mayoritariamente Nullien.
+
+11. Los animales en la Federación son reconocidos como seres sintientes y su bienestar constituye un interés general de la Nación. Los animales de compañía deberán ser cuidados por sus dueños conforme a lo establecido por las Autonomías. Los animales de consumo son propiedad legítima, pero su sacrificio deberá realizarse de la manera más indolora disponible.
+
+12. Las personas mayores de edad tendrán derecho a poseer un arma de fuego de bajo calibre, bajo la tutela, regulación y supervisión del Ministerio de Seguridad.
 
 
 **Artículo 18**  
@@ -310,6 +316,11 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 16. ​La voz de las infancias será escuchada por las Instituciones de gobierno y procesada mediante instrumentos adecuados y designados por la ley y con acompañamiento al infante. Todo infante tiene derecho a una respuesta por parte del Estado.
 17. ​El Consejo del Estado declarará un día anual de reflexión sobre los derechos de las infancias. Ese día, los Parlamentarios cederán su escaño durante ese día para celebrar un Parlamento de las Infancias. Con acompañamiento, los niños redactarán un memorándum para las autoridades del Estado sobre sus pensamientos en la situación del país, el contexto internacional y sus derechos.
 18. ​El Presidente, El Primer Ministro, los Presidentes de las Cámaras y de Tribunal Supremo firmarán solemnemente de recibido y leerán el texto frente a sus respectivos órganos colegiados.
+19. Las personas adolescentes tienen derecho a recibir educación sexual integral, científica y laica, adaptada a su nivel de entendimiento y a su contexto sociocultural y económico, garantizando el respeto a su dignidad, autonomía progresiva y desarrollo integral.
+20. Los dolores e incomodidades derivados del periodo menstrual constituirán causa plenamente justificada de incapacidad escolar temporal, en los términos que establezca la ley, sin que ello implique discriminación ni sanción alguna.
+21. El Estado tiene la obligación de consultar a las personas adolescentes sobre sus opiniones, preocupaciones e intereses mediante mecanismos democráticos, participativos y accesibles.
+22. Dichas consultas deberán realizarse, de manera obligatoria, en materias que les afecten directamente, incluyendo, entre otras: a) Internet y plataformas digitales. b) Actividades digitales interactivas y deportes electrónicos. c) Medio ambiente. d) Salud y salud sexual. e) Identidad. f) Contenidos audiovisuales. g) Cultura y ciencia.
+23. Las leyes podrán prever la activación de los mecanismos de participación establecidos en este capítulo cuando el legislador lo estime necesario, asegurando siempre la efectividad del derecho a ser escuchados.
 
 
 ## **Capítulo II. De las consecuencias y reparaciones de la amenaza al quebrantamiento de Derechos Humanos.**
@@ -372,6 +383,32 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 6.  Cualquier modificación posterior del régimen interior requerirá el mismo procedimiento de aprobación establecido en este artículo.
 
 **Artículo 35.**
+1.La Federación, tras constatar que una Isla Autónoma ha incurrido en violaciones sistemáticas de la Constitución Federal, de los instrumentos internacionales en materia de derechos humanos, de los tratados de libre comercio o de la legislación interna aplicable, podrá activar el Mecanismo de Cohesión Federal.
+	1. El Consejo de Estado, a propuesta del Ejecutivo Federal, convocará al Ejecutivo Insular a consultas formales.
+	2. El Ejecutivo Insular expondrá la situación ante el Pleno del Consejo de Estado, con pleno derecho de audiencia y réplica.
+	3. El Ejecutivo Insular podrá presentar un Plan de Acción para la corrección de las irregularidades detectadas.
+
+2. Si el Consejo de Estado, mediante mayoría calificada, determinare que no existe confianza suficiente en el Plan de Acción o en la actuación del Ejecutivo Insular, declarará la aplicación del Mecanismo de Cohesión Federal.
+
+3. La declaración tendrá los siguientes efectos institucionales
+
+	1. Declarada la cohesión federal: a) El Parlamento Insular quedará disuelto. b) El Ejecutivo Insular cesará en sus funciones.
+	2. Las competencias ejecutivas serán asumidas provisionalmente por el Ejecutivo Federal.
+	3. Las competencias legislativas serán ejercidas provisionalmente por el Legislativo Federal.
+
+
+4. Las competencias asumidas por las autoridades federales tendrán carácter estrictamente provisional. Durante su ejercicio quedará prohibido:
+
+	1. Modificar la legislación insular de forma permanente.
+	2. Reformar la organización de la justicia insular.
+	3. Aprobar endeudamiento público superior al correspondiente al ejercicio fiscal anterior.
+5. La cohesión federal tendrá una duración máxima de seis meses.
+6. Dentro de dicho plazo deberán convocarse elecciones insulares, ya sea al vencimiento del mismo o antes, cuando el Consejo de Estado lo considere oportuno, sin exceder en ningún caso el plazo máximo establecido.
+7. Concluido el Mecanismo de Cohesión Federal, el Ejecutivo Federal rendirá un informe detallado sobre su aplicación ante el Consejo de Estado.
+8. Las funciones ejecutivas derivadas del Mecanismo de Cohesión Federal podrán ser ejercidas por el Primer Ministro o por otro miembro del Consejo de Ministros que cuente con la confianza expresa de dicho órgano.
+
+
+**Artículo 36.**
 
 1. Las lenguas oficiales de la Federación son el castellano y las lenguas oficiales de las Autonomías.
 2. Los regímenes interiores de las Autonomías deben establecer al castellano como lengua cooficial.
