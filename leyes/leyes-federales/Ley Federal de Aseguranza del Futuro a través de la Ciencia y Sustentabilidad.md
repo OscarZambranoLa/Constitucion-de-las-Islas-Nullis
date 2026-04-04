@@ -8,7 +8,8 @@
 
 **Artículo 1.** 1. La presente ley tiene por objeto establecer los mecanismos de protección, resguardo y fomento de los activos biológicos, culturales y científicos de la Nación, garantizando la supervivencia del modelo democrático y ambiental de la Federación frente a contingencias globales o locales.
 
-**Artículo 2.** 1. Para los efectos de esta ley se entenderá por:
+**Artículo 2.** 
+1. Para los efectos de esta ley se entenderá por:
     1. **Agencia de Ciencias**: A la Agencia Nacional de Ciencias de la Federación de las Islas Nullis.
     2. **Almacenamiento Frío**: A las infraestructuras de alta seguridad diseñadas para la criopreservación o mantenimiento a bajas temperaturas de material genético y semillas.
     3. **Constitución**: Al bloque constitucional, ley suprema de la Federación, compuesto por la Constitución de la Federación de las Islas Nullis y los instrumentos internacionales ratificados por la Federación.
@@ -18,16 +19,20 @@
 
 ### **Título Segundo. De las Reservas Físicas y el Resguardo Cultural**
 
-**Artículo 3.** 1. La Nación enviará, de manera preferente, muestras de sus semillas autóctonas a las instituciones de **Almacenamiento Frío** para su resguardo. El **Ministerio** firmará el acuerdo necesario para el cumplimiento de este artículo bajo el marco de la **Constitución**.
+**Artículo 3.** 
+1. La Nación enviará, de manera preferente, muestras de sus semillas autóctonas a las instituciones de **Almacenamiento Frío** para su resguardo. El **Ministerio** firmará el acuerdo necesario para el cumplimiento de este artículo bajo el marco de la **Constitución**.
 2. De no darse la posibilidad de celebrar dicho acuerdo, la Nación desarrollará infraestructura de **Almacenamiento Frío** propia.
 
-**Artículo 4.** 1. La Nación creará y mantendrá un **Repositorio Digital** que busque resguardar la mayor cantidad de información histórica, geográfica, cultural y estadística de la Nación mediante todos los medios a su disposición.
+**Artículo 4.** 
+1. La Nación creará y mantendrá un **Repositorio Digital** que busque resguardar la mayor cantidad de información histórica, geográfica, cultural y estadística de la Nación mediante todos los medios a su disposición.
 
 ### **Título Tercero. De la Agencia Nacional de Ciencias**
 
-**Artículo 5.** 1. La Nación promoverá la investigación, desarrollo y divulgación de proyectos científicos con **Rigor Epistemológico**, que respeten los sistemas democráticos y los derechos humanos reconocidos en la **Constitución**.
+**Artículo 5.** 
+1. La Nación promoverá la investigación, desarrollo y divulgación de proyectos científicos con **Rigor Epistemológico**, que respeten los sistemas democráticos y los derechos humanos reconocidos en la **Constitución**.
 
-**Artículo 6.** 1. La Nación y sus autoridades competentes se obligan a escuchar activamente la opinión científica de calidad emitida por la **Agencia de Ciencias** en el marco de la toma de sus decisiones.
+**Artículo 6.**
+1. La Nación y sus autoridades competentes se obligan a escuchar activamente la opinión científica de calidad emitida por la **Agencia de Ciencias** en el marco de la toma de sus decisiones.
 
 **Artículo 7.** 1. Se garantiza la libertad de cátedra en todo el territorio nacional, bajo las salvaguardas constitucionales de respeto a los derechos humanos.
 2. Se establece formalmente la **Agencia de Ciencias** como autoridad de aplicación de la presente norma y organismo rector de la actividad científica federal.
