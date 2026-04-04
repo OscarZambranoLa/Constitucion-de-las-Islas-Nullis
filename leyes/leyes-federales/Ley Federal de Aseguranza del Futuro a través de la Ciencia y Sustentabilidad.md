@@ -37,5 +37,4 @@
 **Artículo 7.** 1. Se garantiza la libertad de cátedra en todo el territorio nacional, bajo las salvaguardas constitucionales de respeto a los derechos humanos.
 2. Se establece formalmente la **Agencia de Ciencias** como autoridad de aplicación de la presente norma y organismo rector de la actividad científica federal.
 
----
-> **Cúmplase y publíquese en el Registro Oficial de la Federación de las Islas Nullis.**
+
