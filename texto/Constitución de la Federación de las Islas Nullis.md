@@ -324,6 +324,7 @@ En los casos en que la estudiante decida no activar dicho mecanismo, el Estado g
 21. El Estado tiene la obligación de consultar a las personas adolescentes sobre sus opiniones, preocupaciones e intereses mediante mecanismos democráticos, participativos y accesibles.
 22. Dichas consultas deberán realizarse, de manera obligatoria, en materias que les afecten directamente, incluyendo, entre otras: a) Internet y plataformas digitales. b) Actividades digitales interactivas y deportes electrónicos. c) Medio ambiente. d) Salud y salud sexual. e) Identidad. f) Contenidos audiovisuales. g) Cultura y ciencia.
 23. Las leyes podrán prever la activación de los mecanismos de participación establecidos en este capítulo cuando el legislador lo estime necesario, asegurando siempre la efectividad del derecho a ser escuchados.
+24. Será objeto de consulta obligatoria, la modificación de la Ley de Aseguranza del Futuro.
 
 
 ## **Capítulo II. De las consecuencias y reparaciones de la amenaza al quebrantamiento de Derechos Humanos.**
