@@ -613,7 +613,19 @@ Si la moción fracasa, la fuerza política proponente no podrá presentar otra d
 2. Los aranceles buscarán la protección de industrias clave y de seguridad. La Federación renuncia a la política de sustitución de importaciones.
 3. La ratificación de los Tratados de Comercio es función del Consejo de la Federación.
 
+**Artículo 100.** 
 
+1.Esta Constitución permanece vigente aun cuando alguna rebelión, golpe de estado, pronunciamiento militar o reforma fuera de los mecanismos democráticos y legales establecidos se consume.
+2. La rebelión y los golpes de estado serán sofocados y derrocados por acciones y valores democráticos. Las autoridades democráticas resultantes restablecerán esta Constitución y juzgarán a los golpistas mediante los mecanismos constitucionales.
+
+### Disposición Derogatoria
+
+Única. Quedan derogadas todas las leyes, reglamentos y decretos que se opongan o sean incompatibles con esta Constitución y los derechos humanos del bloque.
+Proclamación Final
+
+    Ahora por tanto:
+
+    El pueblo, a través de mi firma, manda a cumplir, estudiar, gozar y exigir esta Constitución.
 ********
 **Firmada en el Salón de Sesiones del Parlamento General de la Federación de las Islas Nullis**  
 
@@ -622,4 +634,20 @@ Oscar Zambrano Lara. _Presidente del Congreso Constituyente del Parlamento Gener
 Para mi mamá, quien luchó con valentía hasta el final.
 
  Descanse en paz.
+
+ Dedicatorias especiales.
+ 
+A los Mártires de la Democracia Mexicana.
+
+A los firmantes de la Carta 77.
+
+A la Generación Z de Nepal.
+
+A Carl Sagan.
+
+A los desaparecidos de la Nación mexicana.
+
+A Martí de CdeCiencia.
+
+A los Defensores de los Derechos Humanos.
 ********
