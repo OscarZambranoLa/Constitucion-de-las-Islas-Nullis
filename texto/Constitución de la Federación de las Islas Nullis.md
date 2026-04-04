@@ -130,7 +130,9 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 
 2.  La Federación garantizará y promoverá el respeto y la protección de este derecho en todos los ámbitos, incluyendo, pero no limitado a, el servicio militar voluntario, las fuerzas de seguridad y cualquier otro escenario en el cual se exija el uso de la fuerza letal. 
 3. La ley regulará las excepciones para las fuerzas de seguridad del estado y la profesión médica.
+4. La Nación Nullien entregará sus más altos honores a aquellos que, en cumplimiento de su deber, den su vida en defensa de la Constitución, el orden democrático, los derechos humanos y la soberanía de la nación.
 
+   
 **Artículo 10.**
 
 1.  Toda persona tiene derecho a moverse libremente por el territorio de la Federación y establcecer su residencia donde le parezca pertinente.
@@ -317,7 +319,8 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 17. ​El Consejo del Estado declarará un día anual de reflexión sobre los derechos de las infancias. Ese día, los Parlamentarios cederán su escaño durante ese día para celebrar un Parlamento de las Infancias. Con acompañamiento, los niños redactarán un memorándum para las autoridades del Estado sobre sus pensamientos en la situación del país, el contexto internacional y sus derechos.
 18. ​El Presidente, El Primer Ministro, los Presidentes de las Cámaras y de Tribunal Supremo firmarán solemnemente de recibido y leerán el texto frente a sus respectivos órganos colegiados.
 19. Las personas adolescentes tienen derecho a recibir educación sexual integral, científica y laica, adaptada a su nivel de entendimiento y a su contexto sociocultural y económico, garantizando el respeto a su dignidad, autonomía progresiva y desarrollo integral.
-20. Los dolores e incomodidades derivados del periodo menstrual constituirán causa plenamente justificada de incapacidad escolar temporal, en los términos que establezca la ley, sin que ello implique discriminación ni sanción alguna.
+20. Los dolores e incomodidades derivados del periodo menstrual constituirán causa plenamente justificada de incapacidad escolar temporal, en los términos que establezca la ley, sin que ello implique discriminación ni sanción alguna. La activación del mecanismo de incapacidad escolar temporal derivado del periodo menstrual corresponderá exclusivamente a la decisión libre, informada y voluntaria de la estudiante, sin que pueda ser condicionada, cuestionada, obstaculizada o inducida por autoridad educativa, personal escolar, familiares o terceros.
+En los casos en que la estudiante decida no activar dicho mecanismo, el Estado garantizará la disponibilidad de condiciones materiales, sanitarias y de acompañamiento que permitan el manejo digno, seguro y saludable de los dolores o incomodidades asociadas al ciclo menstrual, en los términos que establezca la ley.
 21. El Estado tiene la obligación de consultar a las personas adolescentes sobre sus opiniones, preocupaciones e intereses mediante mecanismos democráticos, participativos y accesibles.
 22. Dichas consultas deberán realizarse, de manera obligatoria, en materias que les afecten directamente, incluyendo, entre otras: a) Internet y plataformas digitales. b) Actividades digitales interactivas y deportes electrónicos. c) Medio ambiente. d) Salud y salud sexual. e) Identidad. f) Contenidos audiovisuales. g) Cultura y ciencia.
 23. Las leyes podrán prever la activación de los mecanismos de participación establecidos en este capítulo cuando el legislador lo estime necesario, asegurando siempre la efectividad del derecho a ser escuchados.
@@ -364,6 +367,7 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 5.  Las Fuerzas Armadas de la Federación no pueden ejercer actividades de seguridad pública sin un estado de emergencia declarado.
 6.  La lealtad de las Fuerzas Armadas de la Federación está con la Constitución. Ningún mando militar puede ordenar a las autoridades civiles y democráticas.
 7.  En el territorio de la Federación de las Islas Nullis se prohíbe la construcción, almacenamiento, transporte y uso de armas biológicas, químicas y nucleares.
+8.  El Ejército del Aire y del Espacio tendrá la misión de proteger el espacio aéreo, mantener la superioridad aérea y defender la soberanía de la Federación. Será encargado también, junto con la agencia espacial, de representar los intereses nullis en la defensa orbital y estelar de la Tierra.
 
 **Artículo 32.**
 
@@ -384,11 +388,11 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 
 **Artículo 35.**
 1.La Federación, tras constatar que una Isla Autónoma ha incurrido en violaciones sistemáticas de la Constitución Federal, de los instrumentos internacionales en materia de derechos humanos, de los tratados de libre comercio o de la legislación interna aplicable, podrá activar el Mecanismo de Cohesión Federal.
-	1. El Consejo de Estado, a propuesta del Ejecutivo Federal, convocará al Ejecutivo Insular a consultas formales.
-	2. El Ejecutivo Insular expondrá la situación ante el Pleno del Consejo de Estado, con pleno derecho de audiencia y réplica.
+	1. El Consejo de la Federación, a propuesta del Ejecutivo Federal, convocará al Ejecutivo Insular a consultas formales.
+	2. El Ejecutivo Insular expondrá la situación ante el Pleno del Consejo de la Federación, con pleno derecho de audiencia y réplica.
 	3. El Ejecutivo Insular podrá presentar un Plan de Acción para la corrección de las irregularidades detectadas.
 
-2. Si el Consejo de Estado, mediante mayoría calificada, determinare que no existe confianza suficiente en el Plan de Acción o en la actuación del Ejecutivo Insular, declarará la aplicación del Mecanismo de Cohesión Federal.
+2. Si el Consejo de la Federación, mediante mayoría calificada, determinare que no existe confianza suficiente en el Plan de Acción o en la actuación del Ejecutivo Insular, declarará la aplicación del Mecanismo de Cohesión Federal.
 
 3. La declaración tendrá los siguientes efectos institucionales
 
@@ -403,8 +407,8 @@ Las personas en la Federación nacen y permanecen libres, interdependientes e ig
 	2. Reformar la organización de la justicia insular.
 	3. Aprobar endeudamiento público superior al correspondiente al ejercicio fiscal anterior.
 5. La cohesión federal tendrá una duración máxima de seis meses.
-6. Dentro de dicho plazo deberán convocarse elecciones insulares, ya sea al vencimiento del mismo o antes, cuando el Consejo de Estado lo considere oportuno, sin exceder en ningún caso el plazo máximo establecido.
-7. Concluido el Mecanismo de Cohesión Federal, el Ejecutivo Federal rendirá un informe detallado sobre su aplicación ante el Consejo de Estado.
+6. Dentro de dicho plazo deberán convocarse elecciones insulares, ya sea al vencimiento del mismo o antes, cuando el Consejo de la Federación lo considere oportuno, sin exceder en ningún caso el plazo máximo establecido.
+7. Concluido el Mecanismo de Cohesión Federal, el Ejecutivo Federal rendirá un informe detallado sobre su aplicación ante el Consejo de la Federación.
 8. Las funciones ejecutivas derivadas del Mecanismo de Cohesión Federal podrán ser ejercidas por el Primer Ministro o por otro miembro del Consejo de Ministros que cuente con la confianza expresa de dicho órgano.
 
 
