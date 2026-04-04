@@ -635,7 +635,7 @@ Para mi mamá, quien luchó con valentía hasta el final.
 
  Descanse en paz.
 
- Dedicatorias especiales.
+**Dedicatorias especiales.**
  
 A los Mártires de la Democracia Mexicana.
 
@@ -650,4 +650,6 @@ A los desaparecidos de la Nación mexicana.
 A Martí de CdeCiencia.
 
 A los Defensores de los Derechos Humanos.
+********
+*Pero la luz será mañana para los más, para todos aquellos que hoy lloran la noche, para quienes se niega el día, para quienes es regalo la muerte, para quienes está prohibida la vida. Para todos la luz. Para todos todo*
 ********
