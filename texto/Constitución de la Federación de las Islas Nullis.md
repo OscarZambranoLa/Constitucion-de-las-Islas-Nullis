@@ -649,7 +649,20 @@ A los desaparecidos de la Nación mexicana.
 
 A Martí de CdeCiencia.
 
+A Abuelas de Plaza de Mayo
+
 A los Defensores de los Derechos Humanos.
+
+A las víctimas del comercio trasatlántico de esclavos.
+
+A las víctimas del fascismo y el estalinismo.
+
+A los médicos del combate del Covid 19.
+
+A Blackpink.
+
+**A TODA PERSONA QUE CREA EN LA HUMANIDAD**
+
 ********
 *Pero la luz será mañana para los más, para todos aquellos que hoy lloran la noche, para quienes se niega el día, para quienes es regalo la muerte, para quienes está prohibida la vida. Para todos la luz. Para todos todo*
 ********
