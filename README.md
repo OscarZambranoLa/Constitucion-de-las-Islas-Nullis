@@ -26,7 +26,7 @@ Proyecto de creación de una Constitución para un país ficticio: **La Federaci
 | Isla                        | Población |Ley autonómica|
 | ----------------------------- | --------- |---|
 | **Isla Capital Autónoma de Costa Natura**| 2,100,000 |[Estatuto de autonomía](leyes/estatutos-autonomicos/Estatuto-de-Autonomia-de-la-Isla-Capital-Autonoma-de-Costa-Natura.md)|
-| Región Autónoma de Antalosia  | 1,500,000 ||
+| Isla de Soberanía Compatida Autónoma de Antalosía  | 1,500,000 |https://github.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/blob/main/leyes/estatutos-autonomicos/Constutucion-Antalosia/Constituci%C3%B3n%20de%20Antalos%C3%ADa.md|
 | Región Autónoma de Findalina  | 850,000   ||
 | Región Autónoma de Jisalinse  | 780,000   ||
 | Isla Autónoma de Marinasial | 650,000   |[Fuero del Pueblo de Marinasial](https://github.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/blob/main/leyes/estatutos-autonomicos/fuero-del-pueblo-de-marinasial/Fuero%20del%20Pueblo%20de%20Marinasial.md)|
