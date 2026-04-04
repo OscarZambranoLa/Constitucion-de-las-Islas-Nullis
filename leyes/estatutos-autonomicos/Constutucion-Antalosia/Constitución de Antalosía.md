@@ -5,7 +5,9 @@
     <img src="https://raw.githubusercontent.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/main/recursos-graficos/Emblema-Nacional.jpeg" alt="Emblema Nacional" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/main/recursos-graficos/Bandera%20de%20la%20Anatalos%C3%ADa%20Nullien.png" alt="Bandera de Antalosia" width="75" height="50"/>
 </div>
+
 # La Constitución de soberanía compartida de Antalosia, que rememora la Constitución Española vigente al momento del golpe de 1936.
+
 ---
 
 ### PREÁMBULO
