@@ -326,6 +326,21 @@ En los casos en que la estudiante decida no activar dicho mecanismo, el Estado g
 23. Las leyes podrán prever la activación de los mecanismos de participación establecidos en este capítulo cuando el legislador lo estime necesario, asegurando siempre la efectividad del derecho a ser escuchados.
 24. Será objeto de consulta obligatoria, la modificación de la Ley de Aseguranza del Futuro.
 
+**Artículo 22**
+
+1. Toda persona tiene el derecho humano inalienable e irrenunciable a la protección de la Justicia Federal frente a cualquier acto, omisión o norma general de la autoridad que vulnere, restrinja o amenace los derechos y libertades reconocidos en esta Constitución.
+
+2. El ejercicio de este derecho conlleva la facultad de solicitar la suspensión inmediata del acto reclamado. Los tribunales deberán dictar medidas cautelares de oficio cuando la ejecución del acto pueda causar daños de imposible reparación o afecte la vida e integridad de las personas. Ninguna autoridad podrá ejecutar acto alguno mientras la autoridad judicial no se pronuncie sobre la medida.
+
+3. En casos de desaparición forzada, incomunicación, tortura o peligro de privación de la vida, el amparo podrá ser promovido por cualquier persona en favor del afectado, sin necesidad de formalidad alguna. Los jueces de distrito tienen el mandato constitucional de búsqueda inmediata. Ninguna autoridad, recinto militar o instalación administrativa podrá restringir el acceso de los jueces o sus actuarios para la localización del quejoso.
+
+4. La justicia en las Islas Nullis no será denegada por errores técnicos o falta de pericia legal. Los jueces tienen la obligación de suplir la deficiencia de los conceptos de violación planteados por el ciudadano. El juzgador debe buscar la verdad jurídica y proteger el derecho vulnerado por encima de cualquier rigorismo formal o estricto derecho.
+
+5. Para asegurar una tutela efectiva a los menores de edad y personas en situación de vulnerabilidad, los Juzgados de Distrito contarán con Unidades de Acompañamiento Integral compuestas por personal especializado en psicología, pedagogía y trabajo social. El menor tiene derecho a ser escuchado atentamente por el juez en un entorno seguro y con lenguaje sencillo. El personal de apoyo asistirá al juzgador para traducir las necesidades del menor en actos de protección jurídica inmediata.
+
+6. Las sentencias de amparo son de cumplimiento obligatorio e inmediato. El servidor público que evada, simule o se niegue a cumplir una resolución judicial será destituido de su cargo de forma fulminante y consignado ante las autoridades penales. La responsabilidad alcanzará por igual al ejecutor y a su superior jerárquico por omisión o anuencia.
+
+
 
 ## **Capítulo II. De las consecuencias y reparaciones de la amenaza al quebrantamiento de Derechos Humanos.**
 
@@ -593,9 +608,60 @@ La moción se presentará al Presidente de la Cámara de Representantes, quien l
 Si la moción es aprobada por mayoría absoluta, el candidato propuesto será investido inmediatamente como nuevo Primer Ministro.
 Si la moción fracasa, la fuerza política proponente no podrá presentar otra durante el mismo año legislativo.
 
+## Capítulo VI. Del Poder Judicial. 
+
+
+**Artículo 70**
+
+1. La Nación se otorga soberanamente la procuración de justicia sobre actos cometidos en su territorio y en los espacios bajo su jurisdicción.
+
+2. La justicia será aplicada de acuerdo con esta Constitución y los Instrumentos Internacionales ratificados por la Federación, prestando especial atención a los derechos humanos y al interés superior de la niñez.
+
+3. Ninguna persona podrá hacerse justicia por sí misma, ni coaccionar el ejercicio del derecho humano a la justicia.
+
+4. Los servicios de justicia serán gratuitos.
+
+5. La Nación deposita este poder en el Poder de Justicia de la Federación y en los sistemas de Justicia de las Islas Autónomas.
+
+---
+
+**Artículo 71**
+
+1. El Poder de Justicia de la Federación es encabezado de manera colegiada por el Consejo de Justicia de las Islas Nullis, compuesto por tres integrantes del Tribunal Supremo, tres del Tribunal Constitucional y tres del Tribunal Electoral.
+
+2. La Nación y esta Constitución facultan al Consejo de Justicia para la emisión de las directivas de funcionamiento del Poder Judicial Federal, de acuerdo con la Constitución y las leyes orgánicas en materia de justicia.
+
+3. El Consejo de Justicia se encuentra facultado para emitir los planes de carrera, salarios y prestaciones del personal del Poder Judicial de acuerdo con la Constitución.
+
+---
+
+**Artículo 72**
+
+1. El Tribunal Supremo de las Islas Nullis es el máximo tribunal e instancia en la aplicación de la justicia para los delitos, omisiones y acciones del fuero común.
+
+2. Su composición será de ocho integrantes denominados ministros. Los ministros ejercerán su encargo por un período de ocho años, renovándose de manera escalonada a razón de un ministro por período, garantizando la continuidad institucional del órgano.
+
+3. Los ministros serán propuestos por el Primer Ministro y ratificados por el Consejo de la Federación.
+
+4. Los ministros ejercerán sus funciones con plena independencia y no podrán recibir instrucciones de autoridad alguna durante el ejercicio de su encargo.
+
+---
+
+**Artículo 73**
+
+1. El Tribunal Constitucional de las Islas Nullis es el órgano supremo de interpretación y control de la constitucionalidad. Sus resoluciones tienen por objeto garantizar la supremacía de esta Constitución sobre cualquier acto, omisión o norma del poder público.
+
+2. Su composición será de siete magistrados, propuestos por el Primer Ministro y ratificados por el Consejo de la Federación, por períodos de nueve años no renovables, con renovación escalonada que asegure la continuidad del órgano.
+
+3. El Tribunal ejerce control abstracto de constitucionalidad. Cualquier órgano del Estado — federal o autónomo — está legitimado para impugnar ante el Tribunal una ley, decreto o norma general que estime contraria a esta Constitución, sin necesidad de caso concreto o controversia judicial previa.
+
+4. Las sentencias del Tribunal Constitucional son definitivas e inapelables. La declaración de inconstitucionalidad de una norma producirá su expulsión inmediata del ordenamiento jurídico de la Federación. Ningún órgano del Estado podrá aplicar, invocar o dar vigencia a una norma declarada inconstitucional.
+
+5. Los magistrados ejercerán sus funciones con plena independencia. No podrán ser removidos durante su encargo salvo por las causas graves que establezca la ley orgánica, ni recibir instrucciones de la autoridad que los propuso.
+
 ## Capítulo V. De las obligaciones del estado y las Instituciones Constitucionales.
 
-**Artículo 70.**
+**Artículo 80.**
 
 1. La Federación contará con un banco Central, cuya misión será mantener el poder adquisitivo de la moneda nacional y propiciar un sano desarrollo de los sistemas de pago.
 2. El Banco Central emitirá la moneda nacional de acuerdo a sus cálculos profesionales, económicos y financieros. La emisión de moneda es autónoma y responsabilidad de la Junta Central del Banco de la Federación.
@@ -608,10 +674,38 @@ Si la moción fracasa, la fuerza política proponente no podrá presentar otra d
 9. La Junta, por mayoría simple, designará un Director del Banco Central. Los miembros de la Junta serán denominados Subdirectores y podrán tener asignada una cartera asignada por la Junta Central.
 
 
-**Artículo 71.**
+**Artículo 81**
+
+1. La Agencia Espacial de las Islas Nullis es un organismo constitucional autónomo de carácter federal y de las Autonomías. Su financiamiento, dirección y gobierno son responsabilidad compartida entre la Federación y las Autonomías insulares, en los términos que establezca la ley orgánica correspondiente.
+
+2. El Estado en su conjunto garantizará su dotación presupuestaria suficiente y estable para el cumplimiento de la Agenda Espacial Nacional.
+
+3. La Agencia es responsable de la investigación científica del Espacio Exterior. La ciencia espacial es declarada área prioritaria del Estado federal y de las Autonomías, en tanto constituye herramienta estratégica para el desarrollo científico, la reducción de la pobreza y la proyección de la humanidad hacia el cosmos.
+
+4. La Agenda Espacial Nacional se regirá por los siguientes principios: ciencia sustentable, entendida como la conducción de la investigación espacial con responsabilidad ambiental y visión intergeneracional; rigor epistemológico, sustentando el conocimiento producido en metodología científica verificable y revisable; estabilidad presupuestaria, garantizando financiamiento plurianual que asegure la continuidad de los proyectos; e impacto educativo, integrando los avances de la ciencia espacial al sistema educativo nacional y poniéndolos a disposición de la ciudadanía.
+
+5. La Federación de las Islas Nullis declara que el futuro de su pueblo y el de la humanidad se encuentra en las Estrellas y en el Cosmos. Esta convicción orienta el carácter estratégico y permanente de la política espacial del Estado.
+
+6. La Agencia está facultada para suscribir convenios de colaboración con otros Estados-nación. Todo proyecto de convenio deberá ser presentado ante el Consejo de la Federación, cuya confianza, junto con la del Primer Ministro, será requisito indispensable para su entrada en vigor.
+
+7. La dirección de la Agencia Espacial de las Islas Nullis estará a cargo de una Junta de Gobierno integrada por tres consejeros federales, propuestos por el Primer Ministro y ratificados por el Consejo de la Federación por períodos de nueve años, renovándose de manera escalonada a razón de uno cada tres años; un consejero por cada Autonomía insular, designado conforme al procedimiento de ratificación autónoma que establezca el ordenamiento jurídico de cada isla, por períodos de nueve años; y dos consejeros científicos, propuestos por la Agencia Nacional de Ciencias — organismo del Primer Ministro — y ratificados conforme al procedimiento que establezca la ley orgánica, por períodos de nueve años.
+
+8. Los consejeros ejercerán sus funciones con plena independencia y no podrán recibir instrucciones de la autoridad que los propuso durante el ejercicio de su encargo.
+
+9. La composición de la Junta garantiza que ningún bloque — federal ni autonómico — pueda adoptar decisiones de manera unilateral. El Primer Ministro ejerce influencia a través de cinco consejeros; las Autonomías insulares, a través de ocho. Las decisiones ordinarias se adoptarán por mayoría simple; las materias estratégicas requerirán mayoría calificada en los términos que fije la ley orgánica.
+
+10. La Junta de Gobierno será presidida por un Consejero Presidente. Podrá ser propuesta cualquier persona que sea miembro en ejercicio de la Asamblea de las Islas Nullis, independientemente de si representa a la Federación o a una Autonomía insular. La propuesta corresponde al Primer Ministro y será sometida a ratificación de la Cámara de Representantes. De ser rechazada la primera candidatura, el Primer Ministro presentará una segunda; de ser rechazada la segunda, presentará una tercera. Si la tercera candidatura fuere igualmente rechazada, el Primer Ministro designará directamente al Consejero Presidente en el cuarto intento, sin requerir ratificación parlamentaria.
+
+11. El Consejero Presidente ejercerá su encargo por un período de nueve años y no podrá ser removido salvo por las causas graves que establezca la ley orgánica. Una vez asumido el cargo, quedará suspendido en sus funciones legislativas durante todo el período de su encargo.
+
+12. Todo lo relativo a la organización interna, causas de remoción, procedimientos de ratificación autónoma, mayorías calificadas y demás elementos no previstos expresamente en el presente artículo se resolverá conforme a lo dispuesto en la Ley Orgánica de los Organismos Autónomos Constitucionales de la Federación de las Islas Nullis.
+
+**Artículo 82.**
 1. La Federación buscará comerciar libremente con el mundo. La Federación solo ratificará tratados de libre comercio con estados del mundo respetuosos de los derechos humanos y de la paz internacional.
 2. Los aranceles buscarán la protección de industrias clave y de seguridad. La Federación renuncia a la política de sustitución de importaciones.
 3. La ratificación de los Tratados de Comercio es función del Consejo de la Federación.
+
+   
 
 **Artículo 100.** 
 
