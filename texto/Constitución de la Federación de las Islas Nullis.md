@@ -695,8 +695,7 @@ Si la moción fracasa, la fuerza política proponente no podrá presentar otra d
 9. La composición de la Junta garantiza que ningún bloque — federal ni autonómico — pueda adoptar decisiones de manera unilateral. El Primer Ministro ejerce influencia a través de cinco consejeros; las Autonomías insulares, a través de ocho. Las decisiones ordinarias se adoptarán por mayoría simple; las materias estratégicas requerirán mayoría calificada en los términos que fije la ley orgánica.
 
 10. La Junta de Gobierno será presidida por un Consejero Presidente. Podrá ser propuesta cualquier persona que sea miembro en ejercicio de la Junta de Gobierno, independientemente de si representa a la Federación o a una Autonomía insular. La propuesta corresponde al Primer Ministro y será sometida a ratificación de la Cámara de Representantes. De ser rechazada la primera candidatura, el Primer Ministro presentará una segunda; de ser rechazada la segunda, presentará una tercera. Si la tercera candidatura fuere igualmente rechazada, el Primer Ministro designará directamente al Consejero Presidente en el cuarto intento, sin requerir ratificación parlamentaria.
-
-11. El Consejero Presidente ejercerá su encargo por un período de nueve años y no podrá ser removido salvo por las causas graves que establezca la ley orgánica. Una vez asumido el cargo, quedará suspendido en sus funciones legislativas durante todo el período de su encargo.
+11. El Consejero Presidente ejercerá su encargo por un período de nueve años y no podrá ser removido salvo por las causas graves que establezca la ley orgánica.
 
 12. Todo lo relativo a la organización interna, causas de remoción, procedimientos de ratificación autónoma, mayorías calificadas y demás elementos no previstos expresamente en el presente artículo se resolverá conforme a lo dispuesto en la Ley Orgánica de los Organismos Autónomos Constitucionales de la Federación de las Islas Nullis.
 
