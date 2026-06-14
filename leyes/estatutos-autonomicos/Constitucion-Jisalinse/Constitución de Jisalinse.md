@@ -2,6 +2,7 @@
     <img src="https://raw.githubusercontent.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/main/recursos-graficos/Emblema-Nacional.jpeg" alt="Emblema Nacional" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/OscarZambranoLa/Constitucion-de-las-Islas-Nullis/refs/heads/main/recursos-graficos/Bandera%20JIsalinse.png" alt="Bandera de Jisalinse" width="75" height="50"/>
 </div>
+
 # Constitución de la Isla Autónoma de Jisalinse
 
 Nosotros el pueblo de la Isla Jisalinse, herederos de las tradiciones del Continente Africano, ahora establecidos en Oceanía, para formar la Federación de las Islas Nullis.
